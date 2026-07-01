@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CPF Chapter Reference</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f4f3f0;
+    --surface: #ffffff;
+    --surface2: #f8f7f5;
+    --border: #e2e0db;
+    --text: #1a1a1f;
+    --muted: #8a8a96;
+    --vol1: #f3e8ff;
+    --vol1-accent: #7c3aed;
+    --vol2: #e0f2fe;
+    --vol2-accent: #0369a1;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    min-height: 100vh;
+    padding: 48px 32px;
+  }
+
+  header {
+    max-width: 960px;
+    margin: 0 auto 48px;
+  }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 2.8rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    margin-bottom: 8px;
+  }
+
+  h1 span {
+    color: var(--text);
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 0.05em;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    gap: 40px;
+  }
+
+  .volume-block {
+    background: var(--surface);
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    overflow: hidden;
+  }
+
+  .volume-header {
+    padding: 20px 28px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .vol-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    padding: 4px 10px;
+    border-radius: 999px;
+  }
+
+  .vol1 .vol-badge { background: var(--vol1); color: var(--vol1-accent); border: 1px solid var(--vol1-accent)44; }
+  .vol2 .vol-badge { background: var(--vol2); color: var(--vol2-accent); border: 1px solid var(--vol2-accent)44; }
+
+  .volume-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  thead tr {
+    background: var(--surface2);
+  }
+
+  th {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 12px 28px;
+    text-align: left;
+  }
+
+  th:last-child, td:last-child { text-align: center; }
+  th:nth-child(2), td:nth-child(2) { text-align: center; }
+  th:nth-child(3), td:nth-child(3) { text-align: center; }
+
+  td {
+    padding: 14px 28px;
+    border-top: 1px solid var(--border);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    vertical-align: middle;
+  }
+
+  tr:hover td { background: var(--surface2); }
+
+  .ch-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .running-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.82rem;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 6px;
+    display: inline-block;
+  }
+
+  .vol1 .running-num { background: var(--vol1); color: var(--vol1-accent); }
+  .vol2 .running-num { background: var(--vol2); color: var(--vol2-accent); }
+
+  .page-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  .chapter-name {
+    color: var(--text);
+  }
+
+  .chapter-name em {
+    display: block;
+    font-style: normal;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>CPF <span>Chapter Reference</span></h1>
+  <p class="subtitle">MCAT Content Prep · Volumes I &amp; II</p>
+</header>
+
+<div class="container">
+
+  <!-- CPF VOLUME I -->
+  <div class="volume-block vol1">
+    <div class="volume-header">
+      <span class="vol-badge">CPF I</span>
+      <span class="volume-title">Content Prep for the MCAT, Volume I</span>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Vol. Ch.</th>
+          <th>Running #</th>
+          <th>Page</th>
+          <th style="text-align:left;">Chapter Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="ch-num">Ch. 1</span></td>
+          <td><span class="running-num">1</span></td>
+          <td><span class="page-num">1</span></td>
+          <td class="chapter-name">Foundations of Motion
+            <em>Exploring math concepts, forces, and motion in one and two dimensions</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 2</span></td>
+          <td><span class="running-num">2</span></td>
+          <td><span class="page-num">34</span></td>
+          <td class="chapter-name">The Atomic World
+            <em>Particles, energy, and radioactivity</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 3</span></td>
+          <td><span class="running-num">3</span></td>
+          <td><span class="page-num">74</span></td>
+          <td class="chapter-name">From Particles to Waves
+            <em>Understanding light and sound</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 4</span></td>
+          <td><span class="running-num">4</span></td>
+          <td><span class="page-num">93</span></td>
+          <td class="chapter-name">Optics
+            <em>Envisioning light behavior and optical systems</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 5</span></td>
+          <td><span class="running-num">5</span></td>
+          <td><span class="page-num">110</span></td>
+          <td class="chapter-name">Reactions, Bonds, and Molecular Interactions
+            <em>Energy and intermolecular forces</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 6</span></td>
+          <td><span class="running-num">6</span></td>
+          <td><span class="page-num">142</span></td>
+          <td class="chapter-name">Electricity and Magnetism</td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 7</span></td>
+          <td><span class="running-num">7</span></td>
+          <td><span class="page-num">174</span></td>
+          <td class="chapter-name">Acid-Base and Equilibrium</td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 8</span></td>
+          <td><span class="running-num">8</span></td>
+          <td><span class="page-num">201</span></td>
+          <td class="chapter-name">Unraveling Complex Chemical Reactions
+            <em>A comprehensive guide to kinetics, thermodynamics, and equilibrium</em>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- CPF VOLUME II -->
+  <div class="volume-block vol2">
+    <div class="volume-header">
+      <span class="vol-badge">CPF II</span>
+      <span class="volume-title">Content Prep for the MCAT, Volume II</span>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Vol. Ch.</th>
+          <th>Running #</th>
+          <th>Page</th>
+          <th style="text-align:left;">Chapter Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="ch-num">Ch. 1</span></td>
+          <td><span class="running-num">9</span></td>
+          <td><span class="page-num">1</span></td>
+          <td class="chapter-name">Mechanical Work, Energy, and Systems in the Human Body</td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 2</span></td>
+          <td><span class="running-num">10</span></td>
+          <td><span class="page-num">26</span></td>
+          <td class="chapter-name">Solutions and Electrochemistry
+            <em>Heat capacity, redox reactions, and Faraday's laws in galvanic and electrolytic cells</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 3</span></td>
+          <td><span class="running-num">11</span></td>
+          <td><span class="page-num">50</span></td>
+          <td class="chapter-name">Behaviors and Properties of Matter
+            <em>Gases, kinetic-molecular theory, gas laws, and phase transitions</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 4</span></td>
+          <td><span class="running-num">12</span></td>
+          <td><span class="page-num">69</span></td>
+          <td class="chapter-name">Fluid Mechanics</td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 5</span></td>
+          <td><span class="running-num">13</span></td>
+          <td><span class="page-num">96</span></td>
+          <td class="chapter-name">Organic Chemistry: An Introduction
+            <em>Chemistry of carbon compounds and their properties</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 6</span></td>
+          <td><span class="running-num">14</span></td>
+          <td><span class="page-num">128</span></td>
+          <td class="chapter-name">Aldehydes, Ketones, and Alcohols
+            <em>Exploring reactions and functional group chemistry</em>
+          </td>
+        </tr>
+        <tr>
+          <td><span class="ch-num">Ch. 7</span></td>
+          <td><span class="running-num">15</span></td>
+          <td><span class="page-num">148</span></td>
+          <td class="chapter-name">Carboxylic Acids, Derivatives, and Macromolecules
+            <em>The chemistry of carbon-based functional groups</em>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+</body>
+</html>

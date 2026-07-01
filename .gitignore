@@ -1,0 +1,26 @@
+# --- Private / sensitive: never commit ---
+Accomodations/*
+Screenshots/*
+
+# --- Large binaries: not worth versioning, they choke the push ---
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.heic
+*.HEIC
+*.svg
+
+# Documents / archives
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.apkg
+*.zip
+
+# macOS cruft
+.DS_Store
+**/.DS_Store

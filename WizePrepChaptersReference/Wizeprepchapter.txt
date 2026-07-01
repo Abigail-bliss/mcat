@@ -1,0 +1,529 @@
+cpf vol I
+
+Table of Contents
+
+Chapter 1: Foundations of Motion: Exploring Math Concepts, Vectors, and Forces in
+
+One and Two Dimensions
+
+• Introduction (Page 1)
+
+• MCAT Physics in a Nutshell (Page 1)
+
+• Review of Fundamental Math Concepts (Page 3)
+
+• Vectors and Their Components (Page 12)
+
+• Special Triangles and Trigonometric Functions (Page 14)
+
+• Basic Motion Graphs (Page 15)
+
+• Forces and Free Body Diagrams (Page 16)
+
+• Newton's Laws (Page 17)
+
+• Non-conservative Forces (Page 20)
+
+• Hooke's Law (Page 22)
+
+• Motion in One and Two Dimensions (Page 23)
+
+• Appendix: Center of Mass Cheat Sheet (Page 30)
+• Answer Key (Page 31)
+Chapter 2: The Atomic World: Exploring Particles, Energy, and Radioactivity
+• Introduction (Page 34)
+• The Atom and its Subatomic Particles (Page 35)
+• The Periodic Table of Elements (Page 37)
+• Electromagnetic Spectrum (Page 48)
+• Photon Equation (Page 49)
+• The Photoelectric Effect (Page 50)
+• Bohr's Atomic Model (Page 54)
+• The Quantum Model (Page 56)
+• Electron Configurations (Page 61)
+• Introduction to Radioactive Decay (Page 64)
+• Appendix: Bonus Material (Page 70)
+• Answer Key (Page 72)
+wizeprep
+Chapter 3: From Particles to Waves: Understanding Light and Sound
+• Introduction (Page 74)
+• Wave-Particle Duality of Light (Page 74)
+• Wave Characteristics (Page 75)
+• Standing Waves (Page 81)
+• Introduction to Resonance, Tubes & Harmonics (Page 82)
+• Sound Intensity and Decibels (Page 84)
+• The Doppler Effect (Page 85)
+• Appendix: Shockwaves and Ultrasound Cheat Sheet (Page 90)
+• Answer Key (Page 91)
+Licensed to adb24 @fordham.edu
+Chapter 4: Optics and Vision: From Mirrors to Lenses and Beyond
+• Introduction (Page 93)
+• Wave Reflection (Page 94)
+• Refraction (Page 94)
+• Diffraction (Page 97)
+• The Lensmaker's Equation (Page 98)
+• Types of Mirrors (Page 100)
+• Types of Lenses (Page 102)
+• Compound Lenses (Page 105)
+• Correcting Vision (Page 106)
+• Answer Key (Page 108)
+Chapter 5: From Reactions to Bonds: Exploring Intramolecular and Intermolecular
+Interactions
+• Introduction (Page 110)
+• Classifying Reactions (Page 110)
+• Introduction to Stoichiometry (Page 115)
+• Percent Yield (Page 119
+• Empirical vs. Molecular Formulas (Page 120)
+• Introduction to Intramolecular Bonds (Page 121)
+• Lattice Energy (Page 122)
+• Covalent Bonds (Page 123)
+• Drawing Lewis Structures (Page 126)
+• Introduction to VSEPR Theory (Page 130)
+• Introduction to Hybridization (Page 132)
+• Introduction to Intermolecular Bonds (Page 135)
+• Answer Key (Page 140)
+Chapter 6: Electricity and Magnetism: Forces and Energies that Shape Our World
+• Introduction (Page 142)
+• Electric Charge (Page 143)
+• Electric Field (Page 145)
+• Electric Force (Page 147)
+• Coulomb's Law (Page 149)
+• Electric Potential (Page 150)
+• Electric Potential Energy (Page 152)
+• Ohm's Law (Page 157)
+• Resistors (Page 158)
+• Capacitors (Page 162)
+• Magnetism (Page 166)
+• Answer Key (Page 171)
+6 / 238
+Licensed
+
+
+Chapter 4: Optics and Vision: From Mirrors to Lenses and Beyond
+• Introduction (Page 93)
+• Wave Reflection (Page 94)
+• Refraction (Page 94)
+• Diffraction (Page 97)
+• The Lensmaker's Equation (Page 98)
+• Types of Mirrors (Page 100)
+• Types of Lenses (Page 102)
+• Compound Lenses (Page 105)
+• Correcting Vision (Page 106)
+• Answer Key (Page 108)
+Chapter 5: From Reactions to Bonds: Exploring Intramolecular and Intermolecular
+Interactions
+• Introduction (Page 110)
+• Classifying Reactions (Page 110)
+• Introduction to Stoichiometry (Page 115)
+• Percent Yield (Page 119
+• Empirical vs. Molecular Formulas (Page 120)
+• Introduction to Intramolecular Bonds (Page 121)
+• Lattice Energy (Page 122)
+• Covalent Bonds (Page 123)
+• Drawing Lewis Structures (Page 126)
+• Introduction to VSEPR Theory (Page 130)
+• Introduction to Hybridization (Page 132)
+• Introduction to Intermolecular Bonds (Page 135)
+• Answer Key (Page 140)
+Chapter 6: Electricity and Magnetism: Forces and Energies that Shape Our World
+• Introduction (Page 142)
+• Electric Charge (Page 143)
+• Electric Field (Page 145)
+• Electric Force (Page 147)
+• Coulomb's Law (Page 149)
+• Electric Potential (Page 150)
+• Electric Potential Energy (Page 152)
+• Ohm's Law (Page 157)
+• Resistors (Page 158)
+• Capacitors (Page 162)
+• Magnetism (Page 166)
+• Answer Key (Page 171)
+6 / 238
+Licensed
+
+
+
+
+cpf vol II
+
+Chapter 1: Mechanical Work and Energy in Systems and the Human Body
+• Introduction (Page 1)
+• Mechanical Work (Page 2)
+• Power (Page 6)
+• Energy in Systems (Page 7)
+• Kinetic Energy (Page 8)
+• Gravitational Potential Energy (Page 9)
+• Elastic Potential Energy (Page 10)
+• Law of Conservation of Energy (Page 10)
+• Work-Energy Theorem (Page 13)
+• Torque (Page 15)
+• Equilibrium (Page 16)
+• Mechanical Advantage (Page 17)
+• The Human Body (Page 22)
+• Answer Key (Page 23)
+Chapter 2: Solutions and Electrochemistry: Fundamentals of Heat Capacity, Solubility, Redox Reactions, and Faraday's Law in Galvanic and Electrolytic Cells
+• Introduction (Page 26)
+• Heat Capacity and Calorimetry (Page 27)
+• Solutions: Terminology (Page 30)
+• Equations for Solubility (Page 31)
+• Salt Solubility Rules for Aqueous Solutions (Page 32)
+• Solubility Product Constant (Page 34)
+• Common-lon Effect Introduction (Page 35)
+• Oxidation States and Redox Reactions (Page 38)
+• Reduction Potentials (Page 40)
+• Galvanic (Voltaic) Cells (Page 42)
+• Electrolytic Cells (Page 44)
+• Rechargeable Batteries (Page 47)
+• Faraday's Law of Electrolysis (Page 48)
+• Answer Key (Page 49)
+355655
+wizeprep
+Chapter 3: Behaviour and Properties of Matter: An In-Depth Look at Gases and Their Kinetic Molecular Theory, Gas Laws and Phase Transitions
+• Introduction (Page 50)
+• Phases of Matter (Page 51)
+• Introduction to Phase Transitions (Page 52)
+• Heat Curve (Page 54)
+• Phase Diagram (Page 56)
+• Kinetic Molecular Theory of isess (Page 58) adham.edu
+
+Chapter 3: Behaviour and Properties of Matter: An In-Depth Look at Gases and Their
+
+Kinetic Molecular Theory, Gas Laws and Phase Transitions
+
+• The Idea Gas Law (Page 59)
+• Gas Laws (Page 60)
+
+
+• Real Gases and Van der Waals Equation (Page 62)
+
+• Gas mixtures and Partial Pressures (Page 64)
+
+• Diffusion and Effusion (Page 65)
+
+• Answer Key (Page 67)
+
+Chapter 4: Fluid Mechanics: Exploring the Properties and Behaviours of Fluids
+
+• Introduction (Page 69)
+• Fluids (Page 70)
+
+
+• Fluid Density (Page 72)
+
+• Specific Gravity (Page 73)
+
+• Adhesion, Cohesion and Surface Tension (Page 74)
+
+• Capillary Action (Page 75)
+• Buoyancy (Page 75)
+
+
+• Pascal's Principle (Page 80)
+
+• Hydrostatic Pressure (Page 82)
+
+• Fluids in Motion (Page 85)
+
+• Venturi Effect (Page 89)
+• Pitot Tube (Page 90)
+
+
+• The Blood Vessel (Page 91)
+
+• Answer Key (Page 93)
+
+Chapter 5: Organic Chemistry: An Introduction to the Chemistry of Carbon
+
+Compounds and their Properties
+
+• Introduction (Page 96)
+
+• Common Organic Functional Groups (Page 97)
+
+• Acid/Base Equilibrium Fundamentals (Page 98)
+
+• Factors Influencing Acid/Base Strength (Page 100)
+
+• Nucleophilicity (Page 103)
+
+• Electrophilicity (Page 104)
+
+• Drawing Organic Compounds in 2D (Page 104)
+
+• Bonding in Delocalized Systems (Page 106)
+
+• Aromaticity (Page 107)
+
+• Types of Isomers (Page 108)
+
+• Chiral Molecules (Page 110)
+
+• Cahn-Ingold-Prelog Rules (Page 111)
+
+• Geometric Isomers (Page 112)
+
+• Hydrogen Deficiency Indee(Sege adb24@fordham.edu
+
+Chapter 5 Conf'd: Organic Chemistry: An Introduction to the Chemistry of Carbon Compounds and their Properties
+• 1H NMR Interpretation (Page 117)
+• UV-Vis Interpretation (Page 119)
+• Separation Techniques (Page 120)
+• Appendix: Additional Separation Technique (Page 125)
+• Answer Key (Page 126)
+Chapter 6: Exploring the Reactions of Aldehydes, Ketones, and Alcohols: An Introduction to the Chemical Properties and Transformations of Important Organic Compounds
+• Introduction (Page 128)
+• Reaction Mechanisms: General Terminology (Page 129)
+• Aldehydes and Ketones: Nomenclature and Physical Properties (Page 131)
+• Oxidation to Make Aldehydes and Ketones (Page 132)
+• Reduction Using NaBH, and LiAH, (Page 133)
+• Hydrate, Acetal and Ketal Formation (Page 135)
+• Hydrolysis of Acetals and Ketals (Page 136)
+• Synthesis and Hydrolysis of Imines and Enamines (Page 137)
+• The Grignard Reaction (Page 138)
+• Cyanohydrin and Enolate Formation (Page 139)
+• Kinetic vs. Thermodynamic Enolates and Tautomerization (Page 140)
+• Aldol Reactions (Page 142)
+• Sl vs. Sn2 Reactions (Page 142)
+• Alcohols: Nomenclature and Physical Properties (Page 145)
+• Reactions of Alcohols: A Summary (Page 146)
+• Answer Key (Page 147)
+wizeprep
+Chapter 7: The Chemistry of Carboxylic Acids, Derivatives, and Macromolecules
+• Introduction (Page 148)
+• Carboxylic Acids: Nomenclature and Physical Properties (Page 149)
+• Grignard Reaction with Carbon Dioxide (Page 150)
+• Carboxylic Acid Derivatives: Nomenclature and Physical Properties (Page 151)
+• Important Resonance Structure in Amides (Page 152)
+• Cyclic Acid Derivatives (Lactones and Lactams) (Page 153)
+• Summary: Carboxylic Acid Derivative Reactivity (Page 154)
+• Transesterification (Page 157)
+• Amino Acids (Page 158)
+• Carbohydrates (Page 163)
+• Lipids (Page 170)
+• Answer Key (Page 172)
+Licensed
+
+
+BBF Vol I
+
+Chapter 1: Exploring Biomolecules: Lipids, Carbohydrates, Nucleotides, and Proteins
+• Introduction (Page 1)
+• Lipids (Page 2)
+• Storage Lipids: Fats (Page 3)
+• Structural Lipids: Phospholipids (Page 4)
+• Structural Lipids: Glycolipids and Sphingolipids (Page 5)
+• Lipids as Signals and Cofactors (Page 6)
+• Lipid Transport: Lipoproteins (Page 8)
+• Carbohydrates (Sugars) (Page 9)
+• Nucleotide Structure (Page 14)
+• The DNA Double Helix (Page 16)
+• RNA (Page 17)
+• Amino Acids (Page 17)
+• The Four Levels of Protein Structure (Page 20)
+• Types of Proteins (Page 21)
+• Enzymes (Page 24)
+• Cofactors (Page 25)
+• Enzyme Kinetics (Page 27)
+• Enzyme Inhibitors (Page 30)
+• Enzyme Classification (Page 36)
+• Answer Key (Page 37)
+Chapter 2: From Prokaryotes to Eukaryotes: Exploring Cell Structures and Processes
+• Introduction (Page 38)
+• Prokaryotes (Page 39)
+• Binary Fission: Prokaryotic Reproduction (Page 40)
+• Eukaryotes (Page 41)
+• The Endomembrane System (Page 43)
+• The Plasma Membrane (Page 45)
+• Modes of Membrane Transport (Page 48)
+• Cell Communication (Page 55)
+• Second Messengers (Page 56)
+• The Cytoskeleton (Page 58)
+• Intercellular Junctions (Page 63)
+• Viral Morphology and Diversity (Page 66)
+• Viral Infections (Page 67)
+General Viral Life Cycles (Page 68)
+• Retroviral Life Cycles (Page 69
+• Appendix: Additional Cheat Sheets (Page 71)
+• Answer Key (Page 78)
+Licensed to adb24@fordham.edu
+
+Chapter 3: Unraveling the Central Dogma of Biology
+• Introduction (Page 80)
+• The Central Dogma of Biology (Page 81)
+• The General Structure of a Gene (Page 82)
+• The General Structure of mRNA (Page 83)
+• The Reading Frame (Page 85)
+Transcription in Bacteria (Prokaryotes) (Page 86)
+• Transcription in Eukaryotes (Page 88)
+• RNA Maturation in Eukaryotes (Page 89)
+• Translation (Page 92)
+• Energetics of Translation (Page 94)
+• Introduction to Regulation of Gene Expression (Page 96)
+• Types of Transcriptional Regulation (Page 98)
+• Eukaryotic Genome Organization (Page 101)
+• Epigenetics (Page 102)
+• Transcriptional Regulation (Page 103)
+• Translational and Post-Translational Regulation (Page 104)
+• DNA Synthesis (Prokaryotes) (Page 106)
+• Mutations (Page 108)
+• Repair of Mutations During Replication (Page 110)
+• Answer Key (Page 113)
+Chapter 4: Understanding Cell Division and Genetics: From the Cell Cycle to Inheritance Patterns
+• Introduction (Page 114)
+• Phases of The Cell Cycle (Page 115)
+• Interphase (Page 116)
+• Mitotic Phase (Page 117)
+• Cytokinesis (Page 119)
+• Meiosis (Page 121)
+• Alleles (Page 124)
+• Incomplete Dominance and Co-Dominance (Page 125)
+• Mendel's Law of Segregation (Page 126)
+• Mendel's Law of Independent Assortment (Page 129)
+• Inheritance of Autosomal Traits (Page 133)
+• Inheritance of X-linked Traits (Page 134)
+• Basics of Probability for Genetics (Page 136)
+• The Hardy-Weinberg Equilibrium (Page 137)
+• Answer Key (Page 140)
+355655
+wizepred
+Licensed
+
+Chapter 5: Cellular Energy Metabolism: From Thermodynamics to AT Production
+• Introduction (Page 143)
+• Overview of Metabolism (Page 144)
+• Laws of Thermodynamics (Review) (Page 145)
+• Coupled Reactions (Page 149)
+• ATP and the Proton Motive Force (PMF) (Page 150)
+• Overview of Cellular Respiration (Page 151)
+• Steps of Glycolysis: Intro and Stage I (Page 152)
+• Steps of Glycolysis: Stages Il and III (Page 154)
+• Energy of Glucose Metabolism (Page 156)
+• Regulation of Glycolysis (Page 157)
+• Pyruvate Processing (Page 159)
+• The Citric Acid Cycle (Page 160)
+• The Electron Transport Chain (Page 163)
+• Mitochondria, Apoptosis and Oxidative Stress (Page 166)
+• Fermentation (Page 167)
+• Gluconeogenesis (Anabolic) (Page 168)
+• Pentose Phosphate Pathway (Anabolic) (Page 169)
+• Non-Template Synthesis (Anabolic) (Page 171)
+• Fatty Acid Catabolism (Page 172)
+• Protein Catabolism (Page 174)
+• Answer Key (Page 176)
+Chapter 6: Exploring the Molecular World: Techniques for Separating, Identifying and Manipulating Biological Molecules
+• Introduction (Page 177)
+• Regulation of Metabolism (Page 178)
+• Separation and Identification of Molecules (Page 179)
+• Protein Gel Electrophoresis (Page 184)
+• DNA Gel Electrophoresis (Page 187)
+• Genetic Techniques (Page 191)
+• Reverse Transcription Quantitative PCR (RT-qPCR) (Page 198)
+• RNA Sequencing (RNAseq) (Page 199)
+• Applications of Genetic Techniques (Page 202)
+• Answer Key (Page 204)
+
+BBF VOl II
+Chapter 1: Foundations of Neuroanatomy and Physiology: From Neurons to Sensory Perception
+• Introduction (Page 1)
+• Anatomy of the Neuron (Page 2)
+• Basics of Electrochemistry (Page 3)
+• The Resting Membrane Potential (Page 4)
+• Voltage-Gated Sodium Channel (Page 7)
+• The Action Potential (Page 8)
+• Saltatory Conduction (Page 12)
+• The Synapse (Page 13)
+• Excitatory and Inhibitory Nerve Fibers (Page 14)
+• Glial Cells (Page 16)
+• Overview of the Nervous System (Page 17)
+• Functional Classification of Neurons (Page 19)
+• General Brain Anatomy (Page 20)
+• Spinal Cord Anatomy (Page 22)
+• Overview of the Autonomic Nervous System (Page 23)
+• Sympathetic Nervous System (Page 25)
+• Parasympathetic Nervous System (Page 26)
+• Somatic Nervous System: Reflex Arcs (Page 27)
+• Types of Sensory Receptors (Page 28)
+• Anatomy of the Eye (Page 29)
+• Anatomy of the Ear (Page 32)
+• Appendix: Basic Concepts (Page 36)
+• Answer Key (Page 38)
+Chapter 2: The Endocrine System: Hormones, Homeostasis, and Development
+• Introduction (Page 41)
+• Endocrine System (Page 42)
+• Introduction to Hormones (Page 44)
+• Feedback Control and Homeostasis (Page 47)
+• Endocrine Glands (Page 48)
+• Major Hormone Functions (Page 52)
+• Renin-Angiotensin-Aldosterone System (RAAS) (Page 61)
+• Hormone Action on Cells (Page 62)
+• Female and Male Sexual Development (Page 64)
+• Fertilization and Pregnancy (Page 70)
+• Structures from Primary Germ Layers (Page 77)
+• Appendix: Mechanisms of Development (Page 79)
+• Answer Key (Page 80)
+355655
+wizeprep
+Licensed to adb24 @fordham.edu
+
+Chapter 3: Respiration and Circulation: Anatomy, Physiology, and Interactions
+• Introduction (Page 81)
+• General Functions of the Respiratory System (Page 82)
+• Structure and Function of Alveoli (Page 83)
+• Anatomy of Respiration (Page 85)
+• Gas Exchange (Page 89)
+• Carbon Dioxide Transport in Blood (Page 95)
+• Regulation by Nervous Control (Page 97)
+• The Circulatory System (Page 98)
+• Electrical Conduction of the Heart (Page 101)
+• Introduction to Blood Vessels (Page 102)
+• Arteries (Page 104)
+• Veins (Page 105)
+• Pulmonary and Systemic Circulation (Page 107)
+• Capillaries (Page 109)
+• Blood Pressure Regulation (Page 111)
+• Composition of Blood (Page 113)
+• Oxyhemoglobin (Page 114)
+Carbaminohemoglobin (Page 115)
+Function of Lymphatic System (Page 116)
+Appendix: Thermoregulation (Page 117)
+• Answer Key (Page 118)
+Chapter 4: Anatomy and Physiology of Digestion, Excretion, and Osmoregulation
+• Introduction (Page 119)
+• Introduction to the Digestive System (Page 120)
+• Structure and Function of the Stomach (Page 122)
+• Pancreas (Page 124)
+• The Small Intestine (Page 126)
+• The Large Intestine (Page 128)
+• Liver (Page 129
+• Carbohydrate Absorption (Page 132)
+• Protein and Fat Absorption (Page 133)
+• Lipoproteins (Page 135)
+• Hormonal (Endocrine) Control of Digestion (Page 136)
+• Neural Control of Digestion (Page 137)
+• Excretory System (Page 138)
+• Gross Anatomy of the Kidney (Page 138)
+• Introduction to Urine Formation (Page 141)
+• The Kidneys and Osmoregulation (Page 148)
+• Answer Key (Page 150)
+licensed to
+
+Chapter 5: Muscles, Bones, Skin, and Immunity: Anatomy and Function
+• Introduction (Page 151)
+• Introduction to Muscle Types and Function (Page 152)
+• Skeletal Muscle Function and Basics (Page 152)
+• Agonist and Antagonist Muscles (Page 154)
+• Skeletal Muscle Organization (Page 155)
+• Skeletal Muscle Contraction (Page 158)
+• Skeletal Muscle Energetics (Page 160)
+• Cardiac Muscle: Structure and Contraction (Page 161)
+• Smooth Muscle: Structure and Function (Page 163)
+• Cell Types and Function of Bone (Page 165)
+• Bone Structure (Page 167)
+• Types of Joints (Page 168)
+• Function and Structure of Skin (Page 169)
+• Innate vs Adaptive Immunity (Page 171)
+• Major Histocompatibility Complex (MHC) (Page 179)
+• Cell-Mediated Immunity (Page 179)
+• B-Cell and T-Cell Activation (Page 181)
+• Structure and Function of Antibodies (Page 182)
+• Appendix: MCAT Bonus Material (Page 185)
+• Answer Key (Page 187)

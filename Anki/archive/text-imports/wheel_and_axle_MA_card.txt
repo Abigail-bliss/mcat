@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Physics
+#columns:Front Back Tags
+#tags column:3
+<div style='font-family: Arial, sans-serif; font-size: 18px; text-align: center; padding: 20px;'><b>Mechanical Advantage &mdash; Wheel and Axle</b><br><br>How do you find the <span style='color: #4a90d9;'>mechanical advantage of a wheel and axle</span>?</div>	<div style='font-family: Arial, sans-serif; font-size: 18px; text-align: center; padding: 20px;'><b>Mechanical Advantage &mdash; Wheel and Axle</b><br><br>\[MA = \dfrac{R_{wheel}}{r_{axle}}\]<br><br><table style='margin: auto; text-align: left; font-size: 15px;'><tr><td style='padding: 4px 10px;'><b>R&#8348;&#8341;&#8348;&#8348;&#8343;</b></td><td>radius of the wheel (where effort is applied) &mdash; meters (m)</td></tr><tr><td style='padding: 4px 10px;'><b>r&#8336;&#8339;&#8343;&#8348;</b></td><td>radius of the axle (where load is attached) &mdash; meters (m)</td></tr></table><br><span style='font-size: 13px; color: #888;'>Larger wheel relative to axle &rarr; greater MA. Example: wheel radius 2r, axle radius r &rarr; MA = 2</span></div>	physics::rule-of-thumb physics::mechanics::simple-machines

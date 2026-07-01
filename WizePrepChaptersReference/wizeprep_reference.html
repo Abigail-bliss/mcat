@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WizePrep Chapter Reference</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f4f3f0;
+    --surface: #ffffff;
+    --surface2: #f8f7f5;
+    --border: #e2e0db;
+    --text: #1a1a1f;
+    --muted: #8a8a96;
+    --cpf1-bg: #f3e8ff; --cpf1: #7c3aed;
+    --cpf2-bg: #e0f2fe; --cpf2: #0369a1;
+    --bbf1-bg: #d1fae5; --bbf1: #059669;
+    --bbf2-bg: #fef3c7; --bbf2: #d97706;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    min-height: 100vh;
+    padding: 48px 32px;
+  }
+
+  header { max-width: 980px; margin: 0 auto 28px; }
+
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 2.8rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    margin-bottom: 8px;
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 0.05em;
+  }
+
+  .filter-bar {
+    max-width: 980px;
+    margin: 0 auto 36px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    padding: 8px 20px;
+    border-radius: 999px;
+    border: 2px solid;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    background: transparent;
+  }
+
+  .filter-btn[data-vol="cpf1"]        { border-color: var(--cpf1); color: var(--cpf1); }
+  .filter-btn[data-vol="cpf1"].active { background: var(--cpf1-bg); }
+  .filter-btn[data-vol="cpf2"]        { border-color: var(--cpf2); color: var(--cpf2); }
+  .filter-btn[data-vol="cpf2"].active { background: var(--cpf2-bg); }
+  .filter-btn[data-vol="bbf1"]        { border-color: var(--bbf1); color: var(--bbf1); }
+  .filter-btn[data-vol="bbf1"].active { background: var(--bbf1-bg); }
+  .filter-btn[data-vol="bbf2"]        { border-color: var(--bbf2); color: var(--bbf2); }
+  .filter-btn[data-vol="bbf2"].active { background: var(--bbf2-bg); }
+
+  #container { max-width: 980px; margin: 0 auto; display: grid; gap: 36px; }
+
+  .volume-block {
+    background: var(--surface);
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    overflow: hidden;
+  }
+
+  .volume-header {
+    padding: 18px 28px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .vol-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    padding: 4px 10px;
+    border-radius: 999px;
+  }
+
+  .cpf1 .vol-badge { background: var(--cpf1-bg); color: var(--cpf1); border: 1px solid #7c3aed44; }
+  .cpf2 .vol-badge { background: var(--cpf2-bg); color: var(--cpf2); border: 1px solid #0369a144; }
+  .bbf1 .vol-badge { background: var(--bbf1-bg); color: var(--bbf1); border: 1px solid #05966944; }
+  .bbf2 .vol-badge { background: var(--bbf2-bg); color: var(--bbf2); border: 1px solid #d9770644; }
+
+  .volume-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.15rem;
+    font-weight: 400;
+  }
+
+  /* Chapter row grid: ch# | run# | page | name | assigned | due | checkbox | arrow */
+  .ch-grid {
+    display: grid;
+    grid-template-columns: 70px 82px 52px 1fr 100px 100px 40px 20px;
+    align-items: center;
+    padding: 0 28px;
+  }
+
+  .col-headers {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .col-header {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.63rem;
+    font-weight: 500;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .col-header.center { text-align: center; }
+  .col-header.pad    { padding-left: 8px; }
+
+  details.chapter-item { border-top: 1px solid var(--border); }
+
+  details.chapter-item > summary {
+    list-style: none;
+    cursor: pointer;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    transition: background 0.1s;
+  }
+
+  details.chapter-item > summary::-webkit-details-marker { display: none; }
+  details.chapter-item > summary::marker { display: none; }
+  details.chapter-item > summary:hover   { background: var(--surface2); }
+  details.chapter-item[open] > summary   { background: var(--surface2); }
+
+  .ch-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+
+  .run-wrap { display: flex; justify-content: center; }
+
+  .running-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 6px;
+    display: inline-block;
+  }
+
+  .cpf1 .running-num { background: var(--cpf1-bg); color: var(--cpf1); }
+  .cpf2 .running-num { background: var(--cpf2-bg); color: var(--cpf2); }
+  .bbf1 .running-num { background: var(--bbf1-bg); color: var(--bbf1); }
+  .bbf2 .running-num { background: var(--bbf2-bg); color: var(--bbf2); }
+
+  .page-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--muted);
+    text-align: center;
+  }
+
+  .chapter-name {
+    color: var(--text);
+    font-size: 0.88rem;
+    line-height: 1.45;
+    padding-left: 8px;
+    transition: opacity 0.15s;
+  }
+
+  .ch-date {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--muted);
+    white-space: nowrap;
+    transition: opacity 0.15s;
+  }
+
+  .ch-check-wrap {
+    display: flex;
+    justify-content: center;
+  }
+
+  .expand-icon {
+    color: var(--muted);
+    font-size: 0.6rem;
+    transition: transform 0.2s ease;
+    text-align: right;
+  }
+
+  details[open] .expand-icon { transform: rotate(90deg); }
+
+  /* Chapter done state — only affects the name and dates in the summary */
+  details.chapter-done > summary .chapter-name {
+    opacity: 0.38;
+    text-decoration: line-through;
+    text-decoration-color: var(--muted);
+  }
+  details.chapter-done > summary .ch-date { opacity: 0.38; }
+
+  /* Subtopic table */
+  .subtopics {
+    background: var(--surface2);
+    border-top: 1px solid var(--border);
+    padding: 4px 28px 12px 28px;
+  }
+
+  .subtopic-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .subtopic-table td {
+    padding: 5px 8px;
+    font-size: 0.82rem;
+    line-height: 1.45;
+    vertical-align: middle;
+    border-bottom: 1px solid #e2e0db44;
+  }
+
+  .subtopic-table tr:last-child td { border-bottom: none; }
+  .subtopic-table tbody tr:hover td { background: rgba(0,0,0,0.018); }
+
+  .subtopic-table td.td-check {
+    width: 32px;
+    text-align: center;
+  }
+
+  .subtopic-table tbody tr.done td { opacity: 0.38; }
+
+  .subtopic-table tbody tr.done td.td-topic {
+    text-decoration: line-through;
+    text-decoration-color: var(--muted);
+  }
+
+  input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    accent-color: var(--text);
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 700px) {
+    body { padding: 24px 16px; }
+    .ch-grid { grid-template-columns: 60px 70px 48px 1fr 40px 20px; }
+    .ch-date { display: none; }
+    .col-header.hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>WizePrep <span>Chapter Reference</span></h1>
+  <p class="subtitle">MCAT Content Prep · CPF I &amp; II · BBF I &amp; II</p>
+</header>
+
+<div class="filter-bar">
+  <button class="filter-btn active" data-vol="cpf1">CPF VOL I</button>
+  <button class="filter-btn active" data-vol="cpf2">CPF VOL II</button>
+  <button class="filter-btn active" data-vol="bbf1">BBF VOL I</button>
+  <button class="filter-btn active" data-vol="bbf2">BBF VOL II</button>
+</div>
+
+<div id="container"></div>
+
+<script>
+const VOLUMES = [
+  {
+    id: 'cpf1', badge: 'CPF I',
+    title: 'Content Prep for the MCAT, Volume I',
+    runLabel: 'Running #',
+    chapters: [
+      { ch:1, run:1, page:1, assigned:'5/9/2026', due:'5/16/2026',
+        name:'Foundations of Motion: Exploring Math Concepts, Vectors, and Forces in One and Two Dimensions',
+        topics:['Introduction','MCAT Physics in a Nutshell','Review of Fundamental Math Concepts','Vectors and Their Components','Special Triangles and Trigonometric Functions','Basic Motion Graphs','Forces and Free Body Diagrams',"Newton's Laws",'Non-conservative Forces',"Hooke's Law",'Motion in One and Two Dimensions','Appendix: Center of Mass Cheat Sheet','Answer Key'] },
+      { ch:2, run:2, page:34, assigned:'5/9/2026', due:'5/16/2026',
+        name:'The Atomic World: Exploring Particles, Energy, and Radioactivity',
+        topics:['Introduction','The Atom and its Subatomic Particles','The Periodic Table of Elements','Electromagnetic Spectrum','Photon Equation','The Photoelectric Effect',"Bohr's Atomic Model",'The Quantum Model','Electron Configurations','Introduction to Radioactive Decay','Appendix: Bonus Material','Answer Key'] },
+      { ch:3, run:3, page:74, assigned:'5/10/2026', due:'5/17/2026',
+        name:'From Particles to Waves: Understanding Light and Sound',
+        topics:['Introduction','Wave-Particle Duality of Light','Wave Characteristics','Standing Waves','Introduction to Resonance, Tubes & Harmonics','Sound Intensity and Decibels','The Doppler Effect','Appendix: Shockwaves and Ultrasound Cheat Sheet','Answer Key'] },
+      { ch:4, run:4, page:93, assigned:'5/10/2026', due:'5/17/2026',
+        name:'Optics and Vision: From Mirrors to Lenses and Beyond',
+        topics:['Introduction','Wave Reflection','Refraction','Diffraction',"The Lensmaker's Equation",'Types of Mirrors','Types of Lenses','Compound Lenses','Correcting Vision','Answer Key'] },
+      { ch:5, run:5, page:110, assigned:'5/16/2026', due:'5/23/2026',
+        name:'From Reactions to Bonds: Exploring Intramolecular and Intermolecular Interactions',
+        topics:['Introduction','Classifying Reactions','Introduction to Stoichiometry','Percent Yield','Empirical vs. Molecular Formulas','Introduction to Intramolecular Bonds','Lattice Energy','Covalent Bonds','Drawing Lewis Structures','Introduction to VSEPR Theory','Introduction to Hybridization','Introduction to Intermolecular Bonds','Answer Key'] },
+      { ch:6, run:6, page:142, assigned:'5/16/2026', due:'5/23/2026',
+        name:'Electricity and Magnetism: Forces and Energies that Shape Our World',
+        topics:['Introduction','Electric Charge','Electric Field','Electric Force',"Coulomb's Law",'Electric Potential','Electric Potential Energy',"Ohm's Law",'Resistors','Capacitors','Magnetism','Answer Key'] },
+      { ch:7, run:7, page:174, assigned:'5/23/2026', due:'5/30/2026',
+        name:'Acids, Bases, and Equilibrium: Exploring the Fundamentals of Chemical Reactions',
+        topics:['Introduction','Identifying Conjugate Acid and Base Pairs','Acidic, Basic and Neutral Salts','Acidity of Oxyacids','pH Scale','Definitions of Acids and Bases','Henderson-Hasselbalch Equations','Introduction to Titrations','Introduction to Equilibrium','Equilibrium Constant',"Le Chatelier's Principle",'Answer Key'] },
+      { ch:8, run:8, page:201, assigned:'5/23/2026', due:'5/30/2026',
+        name:'Unraveling the Complexities of Chemical Reactions: A Comprehensive Guide to Kinetics, Thermodynamics, and Equilibrium',
+        topics:['Introduction','Kinetics vs. Thermodynamics','Reaction Rates','Reaction Mechanism – Elementary Steps','Arrhenius Equation','1st Law of Thermodynamics','2nd Law of Thermodynamics','Work, Heat, Internal Energy','Gibbs Free Energy and Spontaneity','Heats of Formation','Bond Energies',"Hess' Law",'Thermodynamics and Equilibrium','Answer Key'] },
+    ]
+  },
+  {
+    id: 'cpf2', badge: 'CPF II',
+    title: 'Content Prep for the MCAT, Volume II',
+    runLabel: 'Running #',
+    chapters: [
+      { ch:1, run:9, page:1, assigned:'5/24/2026', due:'5/31/2026',
+        name:'Mechanical Work and Energy in Systems and the Human Body',
+        topics:['Introduction','Mechanical Work','Power','Energy in Systems','Kinetic Energy','Gravitational Potential Energy','Elastic Potential Energy','Law of Conservation of Energy','Work-Energy Theorem','Torque','Equilibrium','Mechanical Advantage','The Human Body','Answer Key'] },
+      { ch:2, run:10, page:26, assigned:'5/24/2026', due:'5/31/2026',
+        name:"Solutions and Electrochemistry: Fundamentals of Heat Capacity, Solubility, Redox Reactions, and Faraday's Law in Galvanic and Electrolytic Cells",
+        topics:['Introduction','Heat Capacity and Calorimetry','Solutions: Terminology','Equations for Solubility','Salt Solubility Rules for Aqueous Solutions','Solubility Product Constant','Common-Ion Effect Introduction','Oxidation States and Redox Reactions','Reduction Potentials','Galvanic (Voltaic) Cells','Electrolytic Cells','Rechargeable Batteries',"Faraday's Law of Electrolysis",'Answer Key'] },
+      { ch:3, run:11, page:50, assigned:'5/30/2026', due:'6/6/2026',
+        name:'Behaviour and Properties of Matter: An In-Depth Look at Gases and Their Kinetic Molecular Theory, Gas Laws and Phase Transitions',
+        topics:['Introduction','Phases of Matter','Introduction to Phase Transitions','Heat Curve','Phase Diagram','Kinetic Molecular Theory of Gases','The Ideal Gas Law','Gas Laws','Real Gases and Van der Waals Equation','Gas Mixtures and Partial Pressures','Diffusion and Effusion','Answer Key'] },
+      { ch:4, run:12, page:69, assigned:'5/30/2026', due:'6/6/2026',
+        name:'Fluid Mechanics: Exploring the Properties and Behaviours of Fluids',
+        topics:['Introduction','Fluids','Fluid Density','Specific Gravity','Adhesion, Cohesion and Surface Tension','Capillary Action','Buoyancy',"Pascal's Principle",'Hydrostatic Pressure','Fluids in Motion','Venturi Effect','Pitot Tube','The Blood Vessel','Answer Key'] },
+      { ch:5, run:13, page:96, assigned:'6/6/2026', due:'6/13/2026',
+        name:'Organic Chemistry: An Introduction to the Chemistry of Carbon Compounds and their Properties',
+        topics:['Introduction','Common Organic Functional Groups','Acid/Base Equilibrium Fundamentals','Factors Influencing Acid/Base Strength','Nucleophilicity','Electrophilicity','Drawing Organic Compounds in 2D','Bonding in Delocalized Systems','Aromaticity','Types of Isomers','Chiral Molecules','Cahn-Ingold-Prelog Rules','Geometric Isomers','Hydrogen Deficiency Index','¹H NMR Interpretation','UV-Vis Interpretation','Separation Techniques','Appendix: Additional Separation Technique','Answer Key'] },
+      { ch:6, run:14, page:128, assigned:'6/7/2026', due:'6/14/2026',
+        name:'Exploring the Reactions of Aldehydes, Ketones, and Alcohols: An Introduction to the Chemical Properties and Transformations of Important Organic Compounds',
+        topics:['Introduction','Reaction Mechanisms: General Terminology','Aldehydes and Ketones: Nomenclature and Physical Properties','Oxidation to Make Aldehydes and Ketones','Reduction Using NaBH₄ and LiAlH₄','Hydrate, Acetal and Ketal Formation','Hydrolysis of Acetals and Ketals','Synthesis and Hydrolysis of Imines and Enamines','The Grignard Reaction','Cyanohydrin and Enolate Formation','Kinetic vs. Thermodynamic Enolates and Tautomerization','Aldol Reactions','SN1 vs. SN2 Reactions','Alcohols: Nomenclature and Physical Properties','Reactions of Alcohols: A Summary','Answer Key'] },
+      { ch:7, run:15, page:148, assigned:'', due:'',
+        name:'The Chemistry of Carboxylic Acids, Derivatives, and Macromolecules',
+        topics:['Introduction','Carboxylic Acids: Nomenclature and Physical Properties','Grignard Reaction with Carbon Dioxide','Carboxylic Acid Derivatives: Nomenclature and Physical Properties','Important Resonance Structure in Amides','Cyclic Acid Derivatives (Lactones and Lactams)','Summary: Carboxylic Acid Derivative Reactivity','Transesterification','Amino Acids','Carbohydrates','Lipids','Answer Key'] },
+    ]
+  },
+  {
+    id: 'bbf1', badge: 'BBF I',
+    title: 'Biology and Biochemistry Foundations, Volume I',
+    runLabel: 'Ch. #',
+    chapters: [
+      { ch:1, run:1, page:1, assigned:'6/13/2026', due:'6/20/2026',
+        name:'Exploring Biomolecules: Lipids, Carbohydrates, Nucleotides, and Proteins',
+        topics:['Introduction','Lipids','Storage Lipids: Fats','Structural Lipids: Phospholipids','Structural Lipids: Glycolipids and Sphingolipids','Lipids as Signals and Cofactors','Lipid Transport: Lipoproteins','Carbohydrates (Sugars)','Nucleotide Structure','The DNA Double Helix','RNA','Amino Acids','The Four Levels of Protein Structure','Types of Proteins','Enzymes','Cofactors','Enzyme Kinetics','Enzyme Inhibitors','Enzyme Classification','Answer Key'] },
+      { ch:2, run:2, page:38, assigned:'6/13/2026', due:'6/20/2026',
+        name:'From Prokaryotes to Eukaryotes: Exploring Cell Structures and Processes',
+        topics:['Introduction','Prokaryotes','Binary Fission: Prokaryotic Reproduction','Eukaryotes','The Endomembrane System','The Plasma Membrane','Modes of Membrane Transport','Cell Communication','Second Messengers','The Cytoskeleton','Intercellular Junctions','Viral Morphology and Diversity','Viral Infections','General Viral Life Cycles','Retroviral Life Cycles','Appendix: Additional Cheat Sheets','Answer Key'] },
+      { ch:3, run:3, page:80, assigned:'6/20/2026', due:'6/27/2026',
+        name:'Unraveling the Central Dogma of Biology',
+        topics:['Introduction','The Central Dogma of Biology','The General Structure of a Gene','The General Structure of mRNA','The Reading Frame','Transcription in Bacteria (Prokaryotes)','Transcription in Eukaryotes','RNA Maturation in Eukaryotes','Translation','Energetics of Translation','Introduction to Regulation of Gene Expression','Types of Transcriptional Regulation','Eukaryotic Genome Organization','Epigenetics','Transcriptional Regulation','Translational and Post-Translational Regulation','DNA Synthesis (Prokaryotes)','Mutations','Repair of Mutations During Replication','Answer Key'] },
+      { ch:4, run:4, page:114, assigned:'6/20/2026', due:'6/27/2026',
+        name:'Understanding Cell Division and Genetics: From the Cell Cycle to Inheritance Patterns',
+        topics:['Introduction','Phases of The Cell Cycle','Interphase','Mitotic Phase','Cytokinesis','Meiosis','Alleles','Incomplete Dominance and Co-Dominance',"Mendel's Law of Segregation","Mendel's Law of Independent Assortment",'Inheritance of Autosomal Traits','Inheritance of X-linked Traits','Basics of Probability for Genetics','The Hardy-Weinberg Equilibrium','Answer Key'] },
+      { ch:5, run:5, page:143, assigned:'6/21/2026', due:'6/28/2026',
+        name:'Cellular Energy Metabolism: From Thermodynamics to ATP Production',
+        topics:['Introduction','Overview of Metabolism','Laws of Thermodynamics (Review)','Coupled Reactions','ATP and the Proton Motive Force (PMF)','Overview of Cellular Respiration','Steps of Glycolysis: Intro and Stage I','Steps of Glycolysis: Stages II and III','Energy of Glucose Metabolism','Regulation of Glycolysis','Pyruvate Processing','The Citric Acid Cycle','The Electron Transport Chain','Mitochondria, Apoptosis and Oxidative Stress','Fermentation','Gluconeogenesis (Anabolic)','Pentose Phosphate Pathway (Anabolic)','Non-Template Synthesis (Anabolic)','Fatty Acid Catabolism','Protein Catabolism','Answer Key'] },
+      { ch:6, run:6, page:177, assigned:'6/27/2026', due:'7/4/2026',
+        name:'Exploring the Molecular World: Techniques for Separating, Identifying and Manipulating Biological Molecules',
+        topics:['Introduction','Regulation of Metabolism','Separation and Identification of Molecules','Protein Gel Electrophoresis','DNA Gel Electrophoresis','Genetic Techniques','Reverse Transcription Quantitative PCR (RT-qPCR)','RNA Sequencing (RNAseq)','Applications of Genetic Techniques','Answer Key'] },
+    ]
+  },
+  {
+    id: 'bbf2', badge: 'BBF II',
+    title: 'Biology and Biochemistry Foundations, Volume II',
+    runLabel: 'Ch. #',
+    chapters: [
+      { ch:1, run:1, page:1, assigned:'6/27/2026', due:'7/4/2026',
+        name:'Foundations of Neuroanatomy and Physiology: From Neurons to Sensory Perception',
+        topics:['Introduction','Anatomy of the Neuron','Basics of Electrochemistry','The Resting Membrane Potential','Voltage-Gated Sodium Channel','The Action Potential','Saltatory Conduction','The Synapse','Excitatory and Inhibitory Nerve Fibers','Glial Cells','Overview of the Nervous System','Functional Classification of Neurons','General Brain Anatomy','Spinal Cord Anatomy','Overview of the Autonomic Nervous System','Sympathetic Nervous System','Parasympathetic Nervous System','Somatic Nervous System: Reflex Arcs','Types of Sensory Receptors','Anatomy of the Eye','Anatomy of the Ear','Appendix: Basic Concepts','Answer Key'] },
+      { ch:2, run:2, page:41, assigned:'7/11/2026', due:'7/18/2026',
+        name:'The Endocrine System: Hormones, Homeostasis, and Development',
+        topics:['Introduction','Endocrine System','Introduction to Hormones','Feedback Control and Homeostasis','Endocrine Glands','Major Hormone Functions','Renin-Angiotensin-Aldosterone System (RAAS)','Hormone Action on Cells','Female and Male Sexual Development','Fertilization and Pregnancy','Structures from Primary Germ Layers','Appendix: Mechanisms of Development','Answer Key'] },
+      { ch:3, run:3, page:81, assigned:'7/11/2026', due:'7/18/2026',
+        name:'Respiration and Circulation: Anatomy, Physiology, and Interactions',
+        topics:['Introduction','General Functions of the Respiratory System','Structure and Function of Alveoli','Anatomy of Respiration','Gas Exchange','Carbon Dioxide Transport in Blood','Regulation by Nervous Control','The Circulatory System','Electrical Conduction of the Heart','Introduction to Blood Vessels','Arteries','Veins','Pulmonary and Systemic Circulation','Capillaries','Blood Pressure Regulation','Composition of Blood','Oxyhemoglobin','Carbaminohemoglobin','Function of Lymphatic System','Appendix: Thermoregulation','Answer Key'] },
+      { ch:4, run:4, page:119, assigned:'7/12/2026', due:'7/19/2026',
+        name:'Anatomy and Physiology of Digestion, Excretion, and Osmoregulation',
+        topics:['Introduction','Introduction to the Digestive System','Structure and Function of the Stomach','Pancreas','The Small Intestine','The Large Intestine','Liver','Carbohydrate Absorption','Protein and Fat Absorption','Lipoproteins','Hormonal (Endocrine) Control of Digestion','Neural Control of Digestion','Excretory System','Gross Anatomy of the Kidney','Introduction to Urine Formation','The Kidneys and Osmoregulation','Answer Key'] },
+      { ch:5, run:5, page:151, assigned:'7/18/2026', due:'7/25/2026',
+        name:'Muscles, Bones, Skin, and Immunity: Anatomy and Function',
+        topics:['Introduction','Introduction to Muscle Types and Function','Skeletal Muscle Function and Basics','Agonist and Antagonist Muscles','Skeletal Muscle Organization','Skeletal Muscle Contraction','Skeletal Muscle Energetics','Cardiac Muscle: Structure and Contraction','Smooth Muscle: Structure and Function','Cell Types and Function of Bone','Bone Structure','Types of Joints','Function and Structure of Skin','Innate vs Adaptive Immunity','Major Histocompatibility Complex (MHC)','Cell-Mediated Immunity','B-Cell and T-Cell Activation','Structure and Function of Antibodies','Appendix: MCAT Bonus Material','Answer Key'] },
+    ]
+  }
+];
+
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function topicKey(volId, chNum, idx)  { return `wz-${volId}-ch${chNum}-t${idx}`; }
+function chapterKey(volId, chNum)     { return `wz-${volId}-ch${chNum}-chapter`; }
+
+function buildVolume(vol) {
+  const div = document.createElement('div');
+  div.className = `volume-block ${vol.id}`;
+  div.dataset.vol = vol.id;
+
+  // Header
+  const header = document.createElement('div');
+  header.className = 'volume-header';
+  header.innerHTML = `<span class="vol-badge">${esc(vol.badge)}</span><span class="volume-title">${esc(vol.title)}</span>`;
+  div.appendChild(header);
+
+  // Column headers
+  const colHeaders = document.createElement('div');
+  colHeaders.className = 'col-headers ch-grid';
+  colHeaders.innerHTML = `
+    <span class="col-header">Vol. Ch.</span>
+    <span class="col-header center">${esc(vol.runLabel)}</span>
+    <span class="col-header center">Page</span>
+    <span class="col-header pad">Chapter Name</span>
+    <span class="col-header hide-mobile">Assigned</span>
+    <span class="col-header hide-mobile">Due</span>
+    <span class="col-header center">Done</span>
+    <span></span>
+  `;
+  div.appendChild(colHeaders);
+
+  vol.chapters.forEach(ch => {
+    const details = document.createElement('details');
+    details.className = 'chapter-item';
+
+    // Chapter checkbox key
+    const cKey = chapterKey(vol.id, ch.ch);
+
+    // Summary
+    const summary = document.createElement('summary');
+    summary.innerHTML = `<div class="ch-grid">
+      <span class="ch-num">Ch.&nbsp;${ch.ch}</span>
+      <span class="run-wrap"><span class="running-num">${ch.run}</span></span>
+      <span class="page-num">${ch.page}</span>
+      <span class="chapter-name">${esc(ch.name)}</span>
+      <span class="ch-date hide-mobile">${ch.assigned}</span>
+      <span class="ch-date hide-mobile">${ch.due}</span>
+      <span class="ch-check-wrap"><input type="checkbox" class="ch-checkbox" data-key="${cKey}" aria-label="Mark chapter done"></span>
+      <span class="expand-icon">&#9654;</span>
+    </div>`;
+    details.appendChild(summary);
+
+    // Subtopics
+    const subtopics = document.createElement('div');
+    subtopics.className = 'subtopics';
+
+    let rows = '';
+    ch.topics.forEach((topic, i) => {
+      const tKey = topicKey(vol.id, ch.ch, i);
+      rows += `<tr data-key="${tKey}">
+        <td class="td-check"><input type="checkbox" data-key="${tKey}" aria-label="${esc(topic)}"></td>
+        <td class="td-topic">${esc(topic)}</td>
+      </tr>`;
+    });
+
+    subtopics.innerHTML = `<table class="subtopic-table"><tbody>${rows}</tbody></table>`;
+    details.appendChild(subtopics);
+    div.appendChild(details);
+  });
+
+  return div;
+}
+
+function render() {
+  const container = document.getElementById('container');
+  VOLUMES.forEach(vol => container.appendChild(buildVolume(vol)));
+  restoreState();
+  attachListeners();
+}
+
+function restoreState() {
+  // Subtopic checkboxes
+  document.querySelectorAll('input[data-key^="wz-"]:not(.ch-checkbox)').forEach(cb => {
+    if (localStorage.getItem(cb.dataset.key) === 'true') {
+      cb.checked = true;
+      cb.closest('tr').classList.add('done');
+    }
+  });
+  // Chapter checkboxes
+  document.querySelectorAll('input.ch-checkbox').forEach(cb => {
+    if (localStorage.getItem(cb.dataset.key) === 'true') {
+      cb.checked = true;
+      cb.closest('details').classList.add('chapter-done');
+    }
+  });
+}
+
+function attachListeners() {
+  // Subtopic checkboxes
+  document.querySelectorAll('input[data-key^="wz-"]:not(.ch-checkbox)').forEach(cb => {
+    cb.addEventListener('change', function() {
+      localStorage.setItem(this.dataset.key, this.checked);
+      this.closest('tr').classList.toggle('done', this.checked);
+    });
+  });
+
+  // Chapter checkboxes — stop propagation so clicking doesn't toggle details
+  document.querySelectorAll('input.ch-checkbox').forEach(cb => {
+    cb.addEventListener('click', e => e.stopPropagation());
+    cb.addEventListener('change', function() {
+      localStorage.setItem(this.dataset.key, this.checked);
+      this.closest('details').classList.toggle('chapter-done', this.checked);
+    });
+  });
+}
+
+render();
+
+// Volume filter buttons
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    btn.classList.toggle('active');
+    const block = document.querySelector(`.volume-block[data-vol="${btn.dataset.vol}"]`);
+    if (block) block.style.display = btn.classList.contains('active') ? '' : 'none';
+  });
+});
+</script>
+</body>
+</html>
