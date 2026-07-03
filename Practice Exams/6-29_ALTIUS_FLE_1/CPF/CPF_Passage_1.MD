@@ -2,11 +2,11 @@
 
 ## Passage 1 (Questions 1–4)
 
-Organic light-emitting diodes (OLED) are used as sensors in various medical devices. In an OLED, a film of organic molecules acts as an emissive electroluminescent layer. Medicinal OLED applications are limited by a low electricity-to-light conversion efficiency, as well as poor high-voltage stability. Researchers investigating the deuteration of compounds common in OLED devices have observed improved electricity-to-light conversion efficiency and high-voltage stability as a result of deuteration. The improved performance of deuterated compounds over their protonated analogues is theorized to be the result of increased atomic weight.
+Organic light-emitting diodes (OLED) are used as sensors in various medical devices. In an OLED, a film of organic molecules acts as an emissive electroluminescent layer. Medicinal OLED applications are limited by a low electricity-to-light conversion efficiency, as well as poor high-voltage stability. Researchers investigating the {deuteration} of compounds common in OLED devices have observed improved electricity-to-light conversion efficiency and high-voltage stability as a result of deuteration. The improved performance of deuterated compounds over their protonated analogues is theorized to be the result of increased atomic weight.
 
 *Zero-point energy* is the lowest possible energy present in a quantum system. It is the energy present in a system in vacuum and at absolute zero. Heavier isotopes have a lower zero-point energy than lighter isotopes due to their lower potential and vibrational energy.
 
-Researchers demonstrated that materials composed of deuterated analogues exhibit greater electrical resistance when exposed to an external magnetic field than their protonated analogues. This greater magnetoresistance may be the cause of the improved electricity-to-light conversion efficiency and high-voltage stability. Researchers subjected primary, secondary, and tertiary aryl-amines to the conditions shown in Scheme 1.
+Researchers demonstrated that materials composed of deuterated analogues exhibit greater {electrical resistance} when exposed to an external magnetic field than their protonated analogues. This greater magnetoresistance may be the cause of the improved electricity-to-light conversion efficiency and high-voltage stability. Researchers subjected primary, secondary, and tertiary {aryl-amines} to the conditions shown in Scheme 1.
 
 **Scheme 1** — The deuteration of primary, secondary, and tertiary aryl amines. All reactions use the conditions **Pt/C, Pd/C, D₂O**:
 
@@ -59,9 +59,9 @@ The light from an OLED device is produced by the:
 
 - *Subtopic 585 — Classification of electromagnetic spectrum, photon energy E = hf · Topic 164 — Light, Electromagnetic Radiation · SIR 2: Scientific Reasoning and Problem Solving · Discipline 6: Physics*
 
-- A. excitation of an electron to a higher energy level.
+{ - A. excitation of an electron to a higher energy level.
 - B. absorption of a high-energy photon.
-- C. emission of a positron associated with the relaxation of an electron.
+- C. emission of a positron associated with the relaxation of an electron. | would any of these emit light? i only pickd D because i saw photon, and i thought photon is the only thing that causes light }
 - **D. emission of a photon associated with the relaxation of an electron. ✓ (correct — her answer)**
 
 **Solution:** The exact OLED mechanism is not given, so general principles of energy and light are required. A is impossible — moving an electron to a higher energy level *requires* energy, it doesn't release it. B describes absorption rather than release of light. C confuses a positron for a photon; it is photon emission, not positron emission, that produces light. D is correct — it describes the process behind most atomic light emission: an electron is excited by absorbing energy, then releases light as it relaxes to its original energy state.
@@ -84,6 +84,26 @@ Which molecule is likely to have a higher zero-point energy than ²⁰⁶Pb?
 ## Terms & Notes
 
 _Add `{...}` marks in the passage/questions above, then ask to "define the marks." First-pass definitions land here; concept-level gaps get promoted to a Flash Sheet at end-of-review._
+
+- **{deuteration}** — Replacing ordinary hydrogen (¹H, protium) in a molecule with **deuterium (²H, "D")**, the heavy hydrogen isotope (1 proton + 1 neutron). Same chemistry, roughly double the mass at that position. The C–D (or N–D) bond is stronger and lower in energy than C–H — this is the whole point of the passage: heavier isotope → lower zero-point energy → better OLED performance.
+
+- **{electrical resistance}** — Opposition to the flow of electric current (units: ohms, Ω; V = IR). Here it appears as **magnetoresistance** — the *change* in a material's resistance when placed in an external magnetic field. The deuterated materials show *greater* magnetoresistance, which the researchers link to the improved efficiency and high-voltage stability.
+
+- **{aryl-amines}** (aryl amines) — An **amine** (nitrogen with a lone pair, general form R–NH₂ / R₂NH / R₃N) in which at least one substituent is an **aryl group** (an aromatic ring, e.g. a phenyl from benzene). So "aryl amine" = nitrogen attached to a benzene-type ring (aniline is the parent). Classified by how many carbons are on N:
+  - **Primary (1°)** — N bonded to 1 carbon (e.g. 1-naphthylamine, aniline). Has 2 N–H bonds.
+  - **Secondary (2°)** — N bonded to 2 carbons (e.g. diphenylamine). Has 1 N–H bond.
+  - **Tertiary (3°)** — N bonded to 3 carbons (e.g. triphenylamine, *N,N*-dimethylaniline). **No N–H bonds** → couldn't be deuterated in Scheme 1; researchers pinned it on the nitrogen lone pair's availability.
+
+### Q3 note — "would any of these emit light? I only picked D because I saw 'photon'"
+
+Your instinct was right (photon = the particle of light), and you landed on the correct answer — but let's make it *knowledge*, not a lucky keyword grab, since the distractors are the trap:
+
+- **Light is emitted only when a photon is released.** So the answer must be about *emitting* a photon. That kills B (absorption = taking in light, opposite direction) immediately.
+- **A — "excitation of an electron to a higher level"** does NOT emit light. Excitation *costs* energy (the electron absorbs it to climb up). Light comes out on the way *back down* (relaxation). This is the key pairing to memorize: **excite = absorb energy going up; relax = emit a photon coming down.**
+- **C — "emission of a positron"** is a nonsense swap. A **positron** (anti-electron, β⁺ decay) is a nuclear-decay particle, not light. Only a **photon** is light. They're betting you skim and see "emission of a … associated with the relaxation of an electron" and pick it — C and D are worded identically *except* positron vs. photon.
+- **D (correct)** — relaxation of an excited electron → **photon emission** = light. This is the mechanism behind essentially all atomic/molecular light emission (and the "EL" in electro*luminescent* OLED).
+
+**Takeaway:** don't pick on the keyword alone — read what's *happening* to the electron (up vs. down) and check that the emitted *particle* is actually a photon. The distractors here punish exactly the "I saw 'photon'" shortcut, even though it happened to work.
 
 ## Flashcards to Make
 

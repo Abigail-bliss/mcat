@@ -13,3 +13,5 @@ Buckets: 🔴 daily · 🟡 weekly · 🟢 monthly
 | [Protein Purification](biochem/protein-purification.md) | Biochem | 🔴 daily | — | Altius FLE 1 Q11 |
 | [RNA Splicing (GU–AG rule, splice-site mutations)](bio/rna-splicing.md) | Bio | 🔴 daily | — | Altius FLE 1 Q58 |
 | [Keto-Enol Tautomerism](orgo/keto-enol-tautomerism.md) | Orgo | 🔴 daily | — | Self-study 2026-07-01 |
+| [Hydrostatic Pressure (P = ρgh, Pascals)](physics/hydrostatic-pressure.md) | Physics | 🔴 daily | — | Altius FLE 1 CPF Q10 |
+| [Conventional Current vs. Electron Flow (terminals, anode/cathode)](physics/current-vs-electron-flow.md) | Physics | 🔴 daily | — | Altius FLE 1 CPF Q13 |

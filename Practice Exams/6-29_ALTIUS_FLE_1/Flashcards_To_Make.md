@@ -46,6 +46,14 @@ Master list of cards to create at the **end** of this exam review (don't make th
 - [ ] **Wobble hypothesis** — The 3rd codon position (wobble position) can pair with non-Watson-Crick bases in the tRNA anticodon, so one tRNA can recognize multiple codons for the same amino acid. Explains why fewer tRNAs than codons exist (64 codons, ~45 tRNAs). G can wobble-pair with U; inosine (I) can pair with U, C, or A.
 - [ ] **Hardy-Weinberg principle + equation** — Single dense card. Equations: p + q = 1 and p² + 2pq + q² = 1 (p = dominant allele freq, q = recessive). Punnett square showing p²(AA) + 2pq(Aa) + q²(aa). Five assumptions for H-W equilibrium (no mutation, no selection, no gene flow, random mating, large population). MCAT use: given q² (homozygous recessive phenotype freq), solve for q → p → carriers (2pq).
 
+## From: CPF_Passage_5.MD — C/P Passage 5 (Serine proteases / chymotrypsin / pepsin)
+
+- [ ] **Protease = protein-cutter** — A protease (aka proteolytic enzyme) cleaves peptide bonds to break down proteins. Major digestive proteases: **pepsin** (stomach, pH ~2), **trypsin/chymotrypsin** (small intestine, pH ~8). Lipases cut fats; amylases cut carbs — these are NOT proteases. (From Q24.)
+
+## From: self-study (not this exam) — Biochem
+
+- [ ] **Positive vs. negative cooperativity** — Cooperativity = binding of one substrate changes affinity for the next. **Positive cooperativity:** first binding event increases affinity for subsequent substrates (sigmoidal V vs. [S] curve, not hyperbolic). **Negative cooperativity:** first binding decreases affinity for subsequent substrates. Classic example: hemoglobin (positive cooperativity — O₂ binding makes next O₂ bind easier). Hill coefficient (n): n > 1 = positive; n < 1 = negative; n = 1 = no cooperativity (Michaelis-Menten). Sigmoidal curve = cooperativity on MCAT.
+
 ## From: self-study (not this exam) — Orgo
 
 - [ ] **Keto-enol tautomerism — which tautomer dominates & why** — Keto ⇌ enol: the **alpha H** (on the carbon adjacent to the carbonyl C) moves to the O (C=O → C–OH), and the double bond shifts to between the carbonyl C and the alpha C (C=O → C=C). "Enol" = **en** (alkene C=C) + **ol** (OH). Keto normally dominates at equilibrium. **Exceptions where enol wins (MCAT traps):** phenol (enol form is aromatic → stays enol) and 1,3-dicarbonyls (enol stabilized by conjugation + intramolecular H-bond). (Orgo = #1 weakness; taught herself this 2026-07-01.)
