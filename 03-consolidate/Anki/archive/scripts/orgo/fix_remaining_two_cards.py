@@ -1,6 +1,6 @@
 """Fix Grignard+CO2 and Decarboxylation cards (nested <sub> in title broke regex)."""
 import re, sys
-sys.path.insert(0, "/Users/abigailbliss/Documents/MCAT/Anki")
+sys.path.insert(0, "/Users/abigailbliss/Documents/mcat/03-consolidate/Anki")
 from orgo_helpers import assert_connected, anki, render_and_store, validate
 
 

@@ -5,7 +5,7 @@ parallel tracker here — it already does everything (Knowledge/Skills/Slip spli
 done-flag).
 
 - **Miss-review sheet (live):** https://docs.google.com/spreadsheets/d/1GOp0fA93ItrhM6Hm_vfaNnBesbvRSbNz51m1l6C_cSk/edit
-  (a static export lives at `../../mcat-journey/data/Error Log.xlsx`).
+  (a static export lives at `../../00-strategy/data/Error Log.xlsx`).
 - Schema: `Date · Section · Source · WizePrepLoc · Q# · Mode · Topic · Subtopic ·
   Knowledge/Skills/Slip · Description · Action type · Action · Action done? · What did you do?`
 

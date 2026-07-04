@@ -65,7 +65,7 @@ Fri/Sat/Sun full days. Printable checklist: `../weekly-plans/this-week-plan.html
 
 - **2026-06-20** — Pivot to AnKing-as-backbone. Bulk-suspended all 6,342 unseen AnKing cards;
   unsuspended batch 1 = 884 (all Orgo + BBF I Ch1 biochem), weakness-first. Error log: 98 misses,
-  97 C/P, Orgo = 32 (#1 weakness). See `../../Anki/anking-unsuspend/progress.md` for the
+  97 C/P, Orgo = 32 (#1 weakness). See `../../03-consolidate/Anki/anking-unsuspend/progress.md` for the
   unsuspend batch log.
 - **2026-06-20 → 06-28** — Catch-up week (`../weekly-plans/week-of-2026-06-20.md`): get current on
   WizePrep lectures, clear the ~82-miss backlog, keep AnKing daily.

@@ -1,14 +1,15 @@
-# Practice Exams — Orientation (FL dissection / question review)
+# 02-review — Orientation (FL dissection / question review)
 
 A chat started here is for **reviewing practice exams and missed questions** for Abigail's MCAT
-prep. This file is self-contained enough to work from; broader context is one level up in
-`../CLAUDE.md` and `../mcat-journey/`.
+prep. This is `02-review/` (formerly `Practice Exams/`), the practice stage of the pipeline
+(`00-strategy → 01-reference → 02-review → 03-consolidate`). This file is self-contained enough to
+work from; broader context is one level up in `../CLAUDE.md` and `../00-strategy/`.
 
 ## Who / what / when
 Abigail — software engineer, ADHD, fast memorizer. **Test 2026-09-03. Target 520** (diagnostic 496;
 2nd FL also 496 but on harder Altius, so *not* a plateau). Strong: **CARS (90th %ile)**, Gen Chem,
 Psych/Soc. Weak/new: **Bio, Biochem, Orgo (#1 weakness — never taken)**, Physics partial. Content
-sequence follows the **WizePrep** course. Full story: `../mcat-journey/Abigail_MCAT_progress_summary.md`.
+sequence follows the **WizePrep** course. Full story: `../00-strategy/Abigail_MCAT_progress_summary.md`.
 
 ## The one principle that governs review
 **Review > intake. Close the loop > log more.** The score-mover is *consolidation* (reviewing a
@@ -18,7 +19,7 @@ miss until it sticks), not production (more lectures, more rows). Logging a miss
 ## The system of record = a live Google Sheet (NOT a file here)
 Her miss / FL-dissection tracker is a Google Sheet, readable via the **Google Drive connector**:
 `https://docs.google.com/spreadsheets/d/1GOp0fA93ItrhM6Hm_vfaNnBesbvRSbNz51m1l6C_cSk/edit`
-(static export: `../mcat-journey/data/Error Log.xlsx`). **Do NOT build a parallel tracker — it
+(static export: `../00-strategy/data/Error Log.xlsx`). **Do NOT build a parallel tracker — it
 already does everything.**
 
 Schema: `Date · Section · Source (WP/AAMC/Altius) · WizePrepLoc · Q# · Mode · Topic · Subtopic ·
@@ -65,7 +66,7 @@ in the session** (she is NOT deferring/parking topics to circle back to — that
    her "why did I get this wrong" in her own words. She screenshots it when she wants a sync.
 2. **Claude does the teaching live** (define `{...}` marks, explain the miss) → updates the
    per-passage `.md` (Notes & Terms) and, at the end-of-review batch, routes each miss to its home:
-   concept gap → `Flash Sheets/` (top-level); atomic fact → the Anki flashcard queue; one-off vocab
+   concept gap → `../03-consolidate/Flash Sheets/`; atomic fact → the Anki flashcard queue; one-off vocab
    → stays in Notes. (Glossary is frozen — don't feed it.)
 3. **Claude mirrors tracking into ONE staging file** (`WizePrep_Dissection_Consolidated.md`) — no
    double-entry, no parallel xlsx tabs.
@@ -82,11 +83,11 @@ in the session** (she is NOT deferring/parking topics to circle back to — that
 - `glossary.md` — **FROZEN as of 2026-07-01** (replaced by flash sheets, see below). Existing
   per-exam glossaries stay as records; **do NOT feed them anymore.** They were the cumulative
   by-subject term list; that job now belongs to the cross-exam flash sheets.
-- **Flash sheets** (top-level `Flash Sheets/`, sibling of `Anki/`) — **the concept-fluency consolidation artifact**,
+- **Flash sheets** (`../03-consolidate/Flash Sheets/`, sibling of `Anki/`) — **the concept-fluency consolidation artifact**,
   and the "sheet half" of her sheet + Anki combo (replaced the glossary). Durable, cross-exam, one
   file per concept in `[CLUE]` + indented free-recall-outline format (r/MCAT method). She studies by
   reciting the whole sheet from the clue. During FL review, concept-level misses (esp. weakness
-  subjects) get routed here as new branches; see **`Flash Sheets/CLAUDE.md`** (operating manual) +
+  subjects) get routed here as new branches; see **`../03-consolidate/Flash Sheets/CLAUDE.md`** (operating manual) +
   `README.md` (method) for the routing rules and `_index.md` for the spaced-rep buckets.
 - `Flashcards_To_Make.md` — consolidated **Anki** queue, grouped by source file, each item pointing
   back to its passage/Q. Mirrors a `## Flashcards to Make` section inside each source file. **Cards
@@ -108,7 +109,7 @@ in the session** (she is NOT deferring/parking topics to circle back to — that
 - When she says "define the marks," scan `{...}` and write definitions into the file's **`## Terms &
   Notes`** section (bottom of each passage). **This per-passage Terms & Notes section STAYS — she
   wants it** (it's the passage-local record + first-pass definitions). Do NOT also write to
-  `glossary.md` (frozen). Concept-level gaps get *additionally* promoted to a `Flash Sheets/` sheet at
+  `glossary.md` (frozen). Concept-level gaps get *additionally* promoted to a `../03-consolidate/Flash Sheets/` sheet at
   the end-of-review batch — the passage Terms & Notes is the local capture, the flash sheet is the
   durable cross-exam recall target.
 

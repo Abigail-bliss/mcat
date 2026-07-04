@@ -1,8 +1,9 @@
 # MCAT Journey
 
-The narrative of Abigail's MCAT prep — strategy, plans, progress, and data. Card-making and
-the AnKing deck mechanism live in the sibling `../Anki/` folder; this folder is the *why and
-the when*, not the *how to build a card*.
+The narrative of Abigail's MCAT prep — strategy, plans, progress, and data. This is `00-strategy/`,
+the head of the pipeline (`00-strategy → 01-reference → 02-review → 03-consolidate`). Card-making
+and the AnKing deck mechanism live in `../03-consolidate/Anki/`; this folder is the *why and the
+when*, not the *how to build a card*.
 
 **Test day: 2026-09-03 · Target: 520**
 
@@ -22,5 +23,6 @@ the when*, not the *how to build a card*.
 - `this-week-plan.html` — printable checklist for the current week (open in a browser, ⌘P to print).
 
 ## Related
-- Card creation + AnKing mechanism: `../Anki/` (and its `CLAUDE.md`).
-- WizePrep content sequence: `../WizePrepChaptersReference/`.
+- Card creation + AnKing mechanism: `../03-consolidate/Anki/` (and its `CLAUDE.md`).
+- WizePrep content sequence: `../01-reference/WizePrepChaptersReference/`.
+- FL dissection / question review: `../02-review/`.

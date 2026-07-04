@@ -1,5 +1,5 @@
 import requests, sys
-sys.path.insert(0, "/Users/abigailbliss/Documents/MCAT/Anki")
+sys.path.insert(0, "/Users/abigailbliss/Documents/mcat/03-consolidate/Anki")
 from orgo_helpers import render_and_store, assert_connected, validate
 
 assert_connected()

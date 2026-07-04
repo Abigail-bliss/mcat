@@ -29,7 +29,7 @@ survivable batches**, so the user reviews premade high-quality content instead o
 Her study order is driven by the WizePrep textbooks, mapped in:
 
 ```
-/Users/abigailbliss/Documents/MCAT/WizePrepChaptersReference/wizeprep_reference.html
+/Users/abigailbliss/Documents/mcat/01-reference/WizePrepChaptersReference/wizeprep_reference.html
 ```
 
 That file (a self-contained HTML checklist) lists every chapter + subtopic for the four content

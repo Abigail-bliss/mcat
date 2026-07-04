@@ -1,6 +1,6 @@
 # --- Private / sensitive: never commit ---
-Accomodations/*
-Screenshots/*
+01-reference/Accomodations/*
+02-review/Screenshots/*
 
 # --- Large binaries: not worth versioning, they choke the push ---
 # Images

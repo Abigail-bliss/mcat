@@ -16,7 +16,7 @@
 - **Anki, white background / dark text only.** Dislikes night mode. Cards should be styled for a light background — no dark-mode handling, no white-container wrappers behind images.
 - **Beginner at organic chemistry** — never taken it. Doesn't yet know foundational classifications (e.g. didn't know benzene is aromatic). Orgo cards must *teach from the ground up*, name the functional group/class explicitly, prefer name→structure (learning) over structure→name (drilling) while on basics.
 - **Sometimes wants one dense, long card on purpose** (esp. Biochem) to train recall of larger multi-part chunks — not always atomic one-fact cards. Offer the split, but build the combined card without pushing back when she asks.
-- **Keeps an error/miss log in a Google Sheet** (`mcat-journey/data/Error Log.xlsx`, "Error Log" sheet). That log owns the *"why I missed it"* — Anki tags are kept lean and never duplicate that reasoning.
+- **Keeps an error/miss log in a Google Sheet** (`00-strategy/data/Error Log.xlsx`, "Error Log" sheet). That log owns the *"why I missed it"* — Anki tags are kept lean and never duplicate that reasoning.
 
 ---
 
@@ -209,24 +209,27 @@ When custom cards *are* warranted (a real miss or gap AnKing lacks), the establi
 
 ## 11. Key File / Project Map
 
-Two top-level homes under `MCAT/`: **`Anki/`** (card creation + AnKing mechanism) and
-**`mcat-journey/`** (this journey — strategy, plans, progress, data).
+The repo is a numbered pipeline: **`00-strategy` → `01-reference` → `02-review` → `03-consolidate`.**
 
-**mcat-journey/**
+**00-strategy/** (this journey — strategy, plans, progress, data)
 - `Abigail_MCAT_progress_summary.md` — this document (the master summary).
 - `study-plan/master-study-plan.md` — the full written schedule (catch-up plan, Phase 1 & 2 weekly templates, FL schedule, the 8 non-negotiables).
 - `weekly-plans/` — `phase1-weekly-template.md`, the past catch-up week, and `this-week-plan.html` (printable).
 - `progress/progress-log.md` — dated log of scores, decisions, milestones.
 - `data/Error Log.xlsx` ("Error Log" sheet) — her miss log; owns the "why."
 
-**Anki/**
-- `CLAUDE.md` — card-creation directives.
-- `card-creation/` — build/push scripts + helpers. `biochem_images/` (screenshot destination) stays at the `Anki/` root.
-- `anking-unsuspend/` — the AnKing unsuspend mechanism (its own `CLAUDE.md` + `progress.md` batch log). *Unsuspending the right cards in survivable batches* — NOT making cards.
+**01-reference/** (read-mostly source material)
+- `WizePrepChaptersReference/` — content sequence reference (CPF I/II + BBF I/II; no Psych/Soc yet).
+- `Study Materials/` — reference PDFs. `Accomodations/` — sensitive personal paperwork (leave alone).
 
-**Elsewhere**
-- `MCAT/WizePrepChaptersReference/` — content sequence reference (CPF I/II + BBF I/II; no Psych/Soc yet).
-- Memory store: `~/.claude/projects/-Users-abigailbliss-Documents-MCAT-Anki/memory/`.
+**02-review/** (FL dissection / question review)
+- Per-exam folders (PDFs + per-passage transcripts + `WizePrep_Dissection_Consolidated.md`), plus `Screenshots/` (transcription inbox). See `02-review/CLAUDE.md`.
+
+**03-consolidate/** (the daily-review pair)
+- `Anki/` — `CLAUDE.md` (card-creation directives); `card-creation/` (build/push scripts + helpers, with `biochem_images/` the screenshot destination at the `Anki/` root); `anking-unsuspend/` (the AnKing unsuspend mechanism — its own `CLAUDE.md` + `progress.md` batch log; *unsuspending the right cards in survivable batches*, NOT making cards).
+- `Flash Sheets/` — concept-fluency free-recall sheets (`_index.md` spaced-rep tracker).
+
+**Memory store:** `~/.claude/projects/-Users-abigailbliss-Documents-mcat/memory/` (keyed on the repo root, unaffected by the restructure).
 
 ---
 

@@ -3,7 +3,7 @@
 A chat working in this folder is building or maintaining Abigail's **flash sheets**: concept-level
 **free-recall** sheets that are her primary content-consolidation artifact. This file is the operating
 manual; `README.md` next to it carries the fuller method write-up and the study routine. Broader
-context is at the repo root `../CLAUDE.md`; the FL-review side is `../Practice Exams/CLAUDE.md`.
+context is at the repo root `../../CLAUDE.md`; the FL-review side is `../../02-review/CLAUDE.md`.
 
 ## What a flash sheet is (and the one rule that makes it work)
 
@@ -36,12 +36,12 @@ consolidate). If she's spending flash-sheet time *writing* instead of *reciting*
 
 ## How misses become sheets (the routing rule)
 
-This is the receiving end of the FL-review loop (`../Practice Exams/CLAUDE.md`). At the
+This is the receiving end of the FL-review loop (`../../02-review/CLAUDE.md`). At the
 **end-of-review batch**, each miss routes by type:
 
 - **Concept gap** — couldn't explain a whole system, esp. a weakness subject (Orgo / Biochem / Bio)
   → **here**: find the relevant sheet and add a branch, or create a new sheet + `_index.md` row.
-- **Atomic high-yield fact** ("AUG = start codon") → Anki (`../Practice Exams/<exam>/Flashcards_To_Make.md`).
+- **Atomic high-yield fact** ("AUG = start codon") → Anki (`../../02-review/<exam>/Flashcards_To_Make.md`).
 - **One-off passage vocab** → stays in that passage's `## Terms & Notes`; promoted to nothing.
 
 Source material for a sheet = the WizePrep/AAMC explanation of the miss (same content she's already

@@ -1,8 +1,9 @@
 # MCAT Anki — Folder Layout
 
-Everything for **making cards** and **driving the AnKing deck** lives here. The study
-*journey* (plans, progress, scores, error log) now lives in a sibling folder,
-`../mcat-journey/`. See `CLAUDE.md` for the full card workflow, tags, and formatting rules.
+Everything for **making cards** and **driving the AnKing deck** lives here, under
+`03-consolidate/Anki/` (paired with `../Flash Sheets/` as the daily-review consolidation stage).
+The study *journey* (plans, progress, scores, error log) lives at `../../00-strategy/`. See
+`CLAUDE.md` for the full card workflow, tags, and formatting rules.
 
 ## Layout
 
@@ -41,11 +42,11 @@ source of truth is the Anki collection, not these scripts.
 > copy it next to the helpers in `card-creation/` so its `import orgo_helpers` /
 > `import biochem_helpers` resolves.
 
-## Sibling: ../mcat-journey/
+## Strategy docs: ../../00-strategy/
 
-Study-journey docs that used to live here have moved:
+Study-journey docs that used to live here are in `00-strategy/`:
 
-- `Abigail_MCAT_progress_summary.md` → `../mcat-journey/`
-- study plan → `../mcat-journey/study-plan/master-study-plan.md`
-- weekly templates + this-week plan → `../mcat-journey/weekly-plans/`
-- `Error Log.xlsx` → `../mcat-journey/data/`
+- `Abigail_MCAT_progress_summary.md` → `../../00-strategy/`
+- study plan → `../../00-strategy/study-plan/master-study-plan.md`
+- weekly templates + this-week plan → `../../00-strategy/weekly-plans/`
+- `Error Log.xlsx` → `../../00-strategy/data/`
