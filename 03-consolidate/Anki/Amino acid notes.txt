@@ -1,0 +1,428 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:13
+N!~Y3j%J!H	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of glycine. It has a carbon linked to hydrogen, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""4feb8dc6f0722d5d5b573ca4aee056dd.webp"" width=""229"">}}</div><br><br><div>This amino acid is {{c1::Glycine::Full Name}}, {{c1::GLY::3 Letter Name}}, {{c1::G::1 Letter Name}}: {{c1::Nonpolar Aliphatic::Side Chain Characteristic}}.</div>"	"<div><div>Hydrophobic</div></div><br><div>The only amino acid that is <i>not chiral</i></div><br>
+<a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a><br>
+<br><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""glycine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Glycine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6763/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6763""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6763/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6763""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6763/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6763""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				6a905e6f-ae96-496c-b851-3eb0457873dc	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::403902 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+uQ,<[YV1cq	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The ball-and-stick model in electrostatic potential map and structures of uncharged and zwitterionic forms of L-alanine. The uncharged form undergoes a reversible reaction to form a zwitterion."" src=""71edc8f5d89f4fecf8f31e3e83f66b6f.webp"" width=""251"">}}</div><div><div><br><div>This amino acid is {{c1::Alanine::Full Name}}, {{c1::ALA::3 Letter Name}}, {{c1::A::1 Letter Name}}: {{c1::Nonpolar Aliphatic::Side Chain Characteristic}}.</div></div></div>"	"<i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><br><div>Hydrophobic.</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""1007""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""alanine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Alanine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6744?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6744""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6744/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6744""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6744/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6744""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				7f92b5bc-1ffc-4293-9b15-d013d2fbb594	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400366 #AK_MCAT_v2::#UWorld::401774 #AK_MCAT_v2::#UWorld::403677 #AK_MCAT_v2::#UWorld::403902 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+h=iMnH8lG3	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-valine. It has a carbon linked to C-H linked to two methyl groups, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""f4b17860ce421851cd30cdd385f2387e.webp"" width=""271"">}}<br></div><div><br><div>This amino acid is {{c1::Valine::Full Name}}, {{c1::VAL::3 Letter Name}}, {{c1::V::1 Letter Name}}: {{c1::Nonpolar Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Hydrophobic</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><div><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br></div>"			"<img src=""valine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Valine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6745?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6745""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6745/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6745""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6745/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6745""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				55e48593-4166-4039-891d-d040bb6e67f3	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401774 #AK_MCAT_v2::#UWorld::401879 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::$Errata::V2 #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+G_$4*C]Fp<	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-leucine. It has a carbon linked to methylene linked to C-H bonded to two methyl groups, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""dadd10e62d5c9362b587477e02e9172d.webp"" width=""320"">}}</div><div><div>&nbsp;</div><div>This amino acid is {{c1::Leucine::Full Name}}, {{c1::LEU::3 Letter Name}}, {{c1::L::1 Letter Name}}: {{c1::Nonpolar Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Hydrophobic</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""leucine-7a7f2a773b719b5a392e53a2477797d6cf3ff6ef.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Leucine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6746?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6746""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6746/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6746""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6746/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6746""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				8ac51901-5db0-43d9-915b-e0ee4e03fb8c	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401879 #AK_MCAT_v2::#UWorld::403299 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+"lheOtn.#)]"	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-isoleucine. Carbon is linked to C-H bonded to dashed methyl, wedged hydrogen and methylene is linked to methyl group, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""6bab13acbbb595c1132469dbc13296b1.webp"" width=""326"">}}</div><div><br><div>This amino acid is {{c1::Isoleucine::Full Name}}, {{c1::ILE::3 Letter Name}}, {{c1::I::1 Letter Name}}: {{c1::Nonpolar Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Hydrophobic</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""isoleucine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Isoleucine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6747?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6747""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6747/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6747""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6747/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6747""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				20a1e18a-032a-457c-a373-f044ef90c8bb	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401879 #AK_MCAT_v2::#UWorld::402098 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+t1`Feg!Y3J	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-methionine. It has a carbon linked to two methylene groups linked to sulfur and methyl group, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""cea82065b567956592b4dd80cf66a896.webp"" width=""380"">}}</div><br><div><br><div>This amino acid is {{c1::Methionine::Full Name}}, {{c1::MET::3 Letter Name}}, {{c1::M::1 Letter Name}}: {{c1::Nonpolar Aliphatic::Side Chain Characteristic}}.</div></div>"	"Hydrophobic <br><br><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i>"			"<img src=""methionine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Methionine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6764?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6764""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6764/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6764""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6764/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6764""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				81cc48a9-0abb-4ed7-8473-b68aa79e5a9a	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::402696 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+G)7%T*OUa	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-proline. It has a carbon linked to cyclopentane with wedged bond linked to N H 2 positive, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""ab076e65eb80eac391b45a9046a2774e.webp"" width=""233"">}}</div><div><br><div>This amino acid is {{c1::Proline::Full Name}}, {{c1::PRO::3 Letter Name}}, {{c1::P::1 Letter Name}}: {{c1::Nonpolar Aliphatic, Cyclic::Side Chain Characteristic}}.</div></div>"	"<i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><i><span style=""font-size: 10pt;""><br></span></i><br><div>Only cyclic aliphatic (aka nonaromatic) amino acid</div><br><div>Disrupts&nbsp;<b>alpha helixes.&nbsp;&nbsp;</b>Typically found in <b>β-pleated sheets</b> at the turns.&nbsp; ""<i>Kinky</i>""</div><br><div><u>Note:</u>&nbsp;<b>Proline </b>shares many properties with the <b>aliphatic </b>group. <b>Proline </b>is formally NOT an amino acid, but an <b><u>imino</u> </b>acid.</div><br><div><div><strong>Proline</strong><span style=""color: rgb(36, 39, 41);"">&nbsp;</span>is a bit special in that it does not have an -NH3 group; the amine nitrogen binds to the side chain -- it is more of a ""loop"" than a chain -- and the peptide bond is different. But this ""side loop"" clearly has no polar group, and I think there is good agreement that proline should be considered nonpolar. The Khan Academy page is probably mistaken on this one. Proline is intermediate in hydrophobicity.</div></div><br><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a><br><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""proline-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Proline</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6748?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6748""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6748/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6748""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6748/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6748""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				d7b378b6-fc2c-4972-b3ef-808f3e5ea344	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401565 #AK_MCAT_v2::#UWorld::401949 #AK_MCAT_v2::#UWorld::403369 #AK_MCAT_v2::#UWorld::403410 #AK_MCAT_v2::#UWorld::404177 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::#UWorld_Books::Organic_Chemistry::Ch-12-Amines_and_Amides #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+y0oNC?gyEj	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-phenylalanine. It has a carbon linked to methylene linked to a benzene ring, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""ef7acd346795193d62f8ec03d5c27a5e.webp"" width=""385"">}}</div><div><br><div>This amino acid is {{c1::<b>Phenylalanine</b>::Full Name}}, {{c1::PHE::3 Letter Name}}, {{c1::F::1 Letter Name}}: {{c1::Nonpolar Aromatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a></span></i><i>&nbsp;</i><br></div><br><div>Hydrophobic</div><br><div>Aromatic, can <b>absorb UV light.</b></div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""phenylalanine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Phenylalanine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6749?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6749""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6749/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6749""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6749/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6749""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				f1113de1-3837-4371-92fa-93ca180baf14	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401884 #AK_MCAT_v2::#UWorld::404177 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+r5ja.oC}D6	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-tryptophan. It has a carbon linked to methylene linked to cyclopentene with N-H fused to a benzene ring, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""ba114236ce8004bee6939a0acb8c4fc6.webp"" width=""414"">}}<br><br><div>This amino acid is {{c1::Tryptophan::Full Name}}, {{c1::TRP::3 Letter Name}}, {{c1::W::1 Letter Name}}: {{c1::Nonpolar Aromatic::Side Chain Characteristic}}.</div></div>"	"<br><div>Hydrophobic</div><br><div>Aromatic</div><div>Contains the <i><b>indole</b></i> group</div><div>Emits <u>fluorescent light</u><br></div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""tryptophan-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Tryptophan</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6751?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6751""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6751/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6751""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6751/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6751""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				aa8c885d-0170-4cfa-a445-e2bcbc01947f	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401476 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+"eEj@leUg#+"	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-serine. It has a carbon linked to methylene connected to an alcohol, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""26d88663c60b3b4b568477f42293ab6f.webp"" width=""294"">}}</div><div><br><div>This amino acid is {{c1::Serine::Full Name}}, {{c1::SER::3 Letter Name}}, {{c1::S::1 Letter Name}}: {{c1::Polar Uncharged Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Polar Neutral</div>Commonly Phosphorylated<br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""serine-4ca49df6d010c238d5bd2d4f6d1db17628775a7b.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Serine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6752?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6752""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6752/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6752""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6752/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6752""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				78f2e45c-5e37-4edb-8426-f385da0484da	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401563 #AK_MCAT_v2::#UWorld::403184 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+c5)Sjt/$Vi	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-threonine. It has a carbon linked to C-H bonded to dashed hydrogen, wedged alcohol and methyl group, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""b21e827895518fbb2ce5a9e4db2578dc.webp"" width=""306"">}}</div><div><br><div>This amino acid is {{c1::Threonine::Full Name}}, {{c1::THR::3 Letter Name}}, {{c1::T::1 Letter Name}}: {{c1::Polar Uncharged Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div>Polar Neutral</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""threonine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Threonine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6753?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6753""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6753/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6753""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6753/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6753""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				4570068f-183e-44c3-b4f6-03657b31e51a	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+I6!]G%5JqG	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-tyrosine. It has a carbon linked to methylene linked to phenol, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""77b742988d230c8565d5f65c5c5838c2.webp"" width=""416"">}}<br><br><div>This amino acid is {{c1::Tyrosine::Full Name}}, {{c1::TYR::3 Letter Name}}, {{c1::Y::1 Letter Name}}: {{c1::Barely Polar, Aromatic Uncharged::Side Chain Characteristic}}.</div></div>"	"<div><div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><div><i><span style=""font-size: 10pt;""><br></span></i></div><div>Polar Neutral</div><br><div>Aromatic</div><br><div><div>Tyrosine&nbsp;is the precursor to&nbsp;<i>catecholamines.</i></div></div></div><strong><br class=""Apple-interchange-newline"">Tyrosine:</strong><span style=""color: rgb(36, 39, 41);"">&nbsp;</span>As mentioned, polarity of the tyrosine side chain is unclear since it is quite large and has both polar and nonpolar groups. Tyrosine is somewhat hydrophobic, but among the amino acids, it places itself near the middle on most hydrophobicity scales. So tyrosine is a borderline case, which explains why different sources disagree.<br><br><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""tyrosine-7aff06c8ce2ee77e10027c66fcb51728e63829c7.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Tyrosine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6750?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6750""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6750/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6750""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6750/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6750""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				dc11cd8a-8d09-4ce3-91dd-29e7960bf9ff	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401752 #AK_MCAT_v2::#UWorld::401884 #AK_MCAT_v2::#UWorld::404105 #AK_MCAT_v2::#UWorld::404177 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+QGbPfi>|F|	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-cysteine. It has a carbon linked to methylene connected to thiol, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""9c947709e984008fbb9f689d849df219.webp"" width=""277"">}}</div><div><br><div>This amino acid is {{c1::Cysteine::Full Name}}, {{c1::CYS::3 Letter Name}}, {{c1::C::1 Letter Name}}: {{c1::Polar Uncharged Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Cys, C<br></div><div>Polar Neutral</div><div>Only Amino Acid with R Configuration&nbsp;</div><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><div><div><div><span style=""color: rgb(36, 39, 41);""><br></span></div><div><strong>Cysteine</strong>&nbsp;is special in the context of proteins since cysteine residues often pair up via disulfide bonds, and this changes its properties. The -SH group is polar (although less so than an -OH group) so the cysteine side chain is somewhat polar.&nbsp;</div></div></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""cysteine-labeled-fb1c799a9160b2b62ebe4bf096e233a16e7a4c22.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Cysteine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6765?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6765""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6765/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6765""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6765/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6765""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				6b75d964-5fb2-4044-bc80-bda74e6ff2a1	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400365 #AK_MCAT_v2::#UWorld::403446 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+lk6TEkt0WE	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-asparagine. It has a carbon linked to methylene connected to amide, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""2ed31b524083aed88676f50d1136b83c.webp"" width=""334"">}}</div><br><br><div>This amino acid is {{c1::Asparagi<b>N</b>e::Full Name}}, {{c1::AS<b>N</b>::3 Letter Name}}, {{c1::<b>N</b>::1 Letter Name}}: {{c1::Polar Uncharged Aliphatic::Side Chain Characteristic}}.</div>"	"<i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><br><div>Polar Neutral</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><div><br><div><div>Related to Aspartate, as the both have same C<sub>#</sub>&nbsp;and same carbonyl but instead of the <b>-</b>OH group that would be present in Aspartatic Acid (the form before ionization into Aspartate<sup><b>-</b></sup>), the Asparagine would have an amine in place of it.<br></div><br><div>Asparag<u>ine</u>&nbsp;(uncharged) is a protein amino acid, and is synthesized from aspart<u>ic</u> <u>acid</u> (acidic) and glut<u>amine</u> (uncharged).</div><br><div>Glutamine is just a longer Asparagine. Similarly, Glutamate is just a longer Asapartate. The <b>Glutam-</b>&nbsp;counterparts seem to be longer than their <b>Asp-</b>&nbsp;counterparts here.</div><br></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br></div>"			"<img src=""asparagine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Asparagine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6766?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6766""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6766/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6766""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6766/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6766""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				b764d5aa-9985-414c-ae6e-4a45e40a0d0b	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400294 #AK_MCAT_v2::#UWorld::403140 #AK_MCAT_v2::#UWorld::403411 #AK_MCAT_v2::#UWorld::403742 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+nMU?/X4P-&	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-glutamine. It has a carbon linked to two methylene connected to amide, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""fa6a7a0044fe06ae6cdaa15e85c5e322.webp"" width=""361"">}}</div><div><br><div>This amino acid is {{c1::<b>G</b>lutamine::Full Name}}, {{c1::<b>G</b>LN::3 Letter Name}}, {{c1::<b>Q</b>::1 Letter Name}}: {{c1::Polar Uncharged Aliphatic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Polar Neutral</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><div><br><div><u>Note:</u>&nbsp;Not to be confused with, the Polar <b>Acidic</b> Aliphatic Amino Acid, Glutam-<b>ic</b>/Glutam-<b>ate</b>&nbsp;(we called these acids the <b>ic-ate</b> brothers): these two are ions of each other, with latter being the ion form.</div><div><div><br>Asparag<u>ine</u>&nbsp;(uncharged) is a protein amino acid, and is synthesized from aspart<u>ic</u>&nbsp;<u>acid</u>&nbsp;(acidic) and glut<u>amine</u>&nbsp;(uncharged).<br></div><br></div><div>Glutamine is just a longer Asparagine. Similarly, Glutamate is just a longer Asapartate. The&nbsp;<b>Glutam-</b>&nbsp;counterparts seem to be longer than their&nbsp;<b>Asp-</b>&nbsp;counterparts here.<br></div></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""glutamine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Glutamine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6767?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6767""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6767/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6767""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6767/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6767""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				3d2ef083-5de7-42e3-860f-1c1cc3485950	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::401766 #AK_MCAT_v2::#UWorld::403411 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+Nu49_]FC[B	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img src=""8018f20fd839889c68891523c36989c8.webp"" width=""458"">}}</div><br><br><div>This amino acid is {{c1::Lysine::Full Name}}, {{c1::LYS::3 Letter Name}}, {{c1::K::1 Letter Name}}: {{c1::Polar Positively-Charged Aliphatic, Basic::Side Chain Characteristic}}.</div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Positively Charged</div><div>Hydrophilic</div><div>Basic<br></div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""lysine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Lysine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6770?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6770""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6770/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6770""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6770/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6770""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				8635ccac-45dc-4dc4-8e55-d5bd73dda0ac	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400368 #AK_MCAT_v2::#UWorld::400735 #AK_MCAT_v2::#UWorld::402052 #AK_MCAT_v2::#UWorld::402106 #AK_MCAT_v2::#UWorld::402578 #AK_MCAT_v2::#UWorld::403183 #AK_MCAT_v2::#UWorld::403742 #AK_MCAT_v2::#UWorld::404105 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+r1B?Qu,!/c	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-arginine comprises carbon linked to three methylene to N-H, carbon linked to an amine, and an alkene bonded to amine cation, carboxylate, dashed hydrogen, and wedged ammonia."" src=""3b4e73a71b43eea333e79f3f20305a2d.webp"" width=""423"">}}</div><div><br><div>This amino acid is {{c1::A<b>R</b>ginine::Full Name}}, {{c1::A<b>R</b>G::3 Letter Name}}, {{c1::<b>R</b>::1 Letter Name}}: {{c1::Polar Positively-Charged Aliphatic, Basic::Side Chain Characteristic}}.</div></div>"	"<i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><br><div>Positively Charged</div><div>Hydrophilic</div><div>Basic</div><br><div>Contains the&nbsp;<b>guanidinium</b> group.<br></div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><br><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""arginine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Arginine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6771?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6771""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6771/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6771""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6771/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6771""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				0235ca77-2698-4055-bbff-470662aa1e6e	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::402775 #AK_MCAT_v2::#UWorld::403066 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+"F(?o(}#gRL"	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-histidine. It has a carbon linked to methylene group linked to cyclopentadiene with nitrogen and N-H, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""6b9e88f65591f33e8148a4b5cb2f504e.webp"" width=""300"">}}</div><div><br><div>This amino acid is {{c1::Histidine::Full Name}}, {{c1::His::3 Letter Name}}, {{c1::H::1 Letter Name}}: {{c1::Polar Positively-Charged Aromatic, Basic::Side Chain Characteristic}}.</div></div>"	"<i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><u><br><br>Caution</u>: Histidine is neutral at physiological pH<br><br>Positively Charged<br>Hydrophilic<br>Basic<br><br>Contains the <u>imidazole</u> group<br><br><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"" style="""">Khan Academy Link</a><br><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i>"			"<img src=""histidine-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Histidine</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6772?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6772""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6772/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6772""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6772/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6772""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				e7fa0dc6-2e2f-43de-bce4-f99511a83bbf	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400367 #AK_MCAT_v2::#UWorld::402726 #AK_MCAT_v2::#UWorld::403686 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+s%gI!h;&d<	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-aspartic acid. It has a carbon linked to methylene linked to carboxylate ion, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""f5ae52cf5520b75c5703987b1f1871d8.webp"" width=""348"">}}</div><div><br><br><div>This amino acid is {{c1::Aspartate::Full Name}}, {{c1::ASP::3 Letter Name}}, {{c1::D::1 Letter Name}}: {{c1::Polar Negatively-Charged Aliphatic, Acidic::Side Chain Characteristic}}.</div></div>"	"<i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br><br><div><u>Tip:</u>&nbsp;For 1 Letter, look at all the P in full and 3 letter names of as<b>P</b>artate, if you cut off the bottom half of this letter P then you get D, the one letter code for as<b>P</b>artate.</div><br><div>Negatively Charged</div><div>Acidic</div><br><div>Related to Asparagine, as the both have same C<sub>#</sub>&nbsp;and same carbonyl but instead of the&nbsp;<b>-</b>OH group that would be present in Aspartatic Acid (the form before ionization into Aspartate<sup><b>-</b></sup>), the Asparagine would have an amine in place of it.</div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><div><br><br><div>Glutamate is just a longer Aspartate. Similarly, Glutamine is just a longer Asparagine.&nbsp; The&nbsp;<b>Glutam-</b>&nbsp;counterparts seem to be longer than their&nbsp;<b>Asp-</b>&nbsp;counterparts here.</div><br></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""aspartate-labeled.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Aspartate</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6768?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6768""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6768/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6768""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6768/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6768""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				8ce7015f-c4d0-4e69-a66c-7977aa1ba617	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400947 #AK_MCAT_v2::#UWorld::401769 #AK_MCAT_v2::#UWorld::402303 #AK_MCAT_v2::#UWorld::402528 #AK_MCAT_v2::#UWorld::402578 #AK_MCAT_v2::#UWorld::404105 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"
+kJX,%[fk^%	AnKing MCAT (AnKing MCAT Deck / AnKingMed)	AnKing MCAT Deck::Biochemistry	"<div>{{c2::<img alt=""The structure of L-glutamic acid. It has a carbon linked to two methylene groups linked to carboxylate ion, carboxylate ion, dashed hydrogen, and wedged ammonia ion."" src=""9510c1bf60509f634b4d34cecf0152ef.webp"" width=""332"">}}</div><div><br><br><div>This amino acid is {{c1::Glutamate::Full Name}}, {{c1::GLU::3 Letter Name}}, {{c1::<b>E</b>::1 Letter Name}}: {{c1::Polar Negatively-Charged Aliphatic, Acidic::Side Chain Characteristic}}.</div></div>"	"<div><i><span style=""font-size: 10pt;"">Photo credit:&nbsp;<a href=""https://openstax.org/details/books/organic-chemistry"">OpenStax</a>,&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>&nbsp;</span></i><br></div><br><div>Negatively Charged</div><div>Acidic<br></div><br><div><a href=""https://www.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1/v/classification-amino-acids"">Khan Academy Link</a></div><div><br>Glutamat<b>E&nbsp;</b>is the&nbsp;deprotonated form of glutamic acid.&nbsp;<br><div><div><br>Glutamate is just a longer Aspartate. Similarly, Glutamine is just a longer Asparagine.&nbsp; The&nbsp;<b>Glutam-</b>&nbsp;counterparts seem to be longer than their&nbsp;<b>Asp-</b>&nbsp;counterparts here.</div></div><br></div><br><img src=""8d79fb39e800a6c5a26c915052aac9f5.svg"" width=""980""><br><i><span style=""font-size: 10pt;""><a href=""https://commons.wikimedia.org/wiki/File:Overview_proteinogenic_amino_acids-ENG.svg"">original: Sponk, modified: isk</a>, CC0, via Wikimedia Commons</span></i><br>"			"<img src=""glutamate-95dc725740d52c32495aeb2a35ab6ad612097e9e.png""><div>
+  <div class=""pixorize-widget-container"">
+    <div class=""pixorize-widget"">
+      <div class=""pixorize-widget__bkg"">
+        <div class=""pixorize-widget__title"">Glutamate</div>
+        <div class=""pixorize-widget__icons"">
+          <a class=""pixorize-widget__icon pixorize-widget__icon--fl"" href=""https://pixorize.com/view/6769?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6769""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--video"" href=""https://pixorize.com/view/6769/video?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6769""></a>
+          <a class=""pixorize-widget__icon pixorize-widget__icon--image"" href=""https://pixorize.com/view/6769/image?utm_source=anking&amp;utm_medium=anki&amp;utm_campaign=mcat_deck_v2&amp;utm_content=6769""></a>
+        </div>
+      </div>
+      <div class=""pixorize-widget__logo-container"">
+        <a href=""https://pixorize.com/mcat"">
+          <div class=""pixorize-widget__logo"">
+            <div class=""pixorize-widget__logo-circle""></div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>"				282ed8cf-b301-4595-b67a-f2856bfdd56e	"!AK_UpdateTags::^temporary::ImageFix_MCAT::02::done #AK_MCAT_v2::#AAMC::Concepts::B/B::Foundational_Concept_01::1A-Proteins_and_Amino_Acids #AK_MCAT_v2::#AAMC::Concepts::C/P::Foundational_Concept_05::5D-Structure,_Function,_Reactivity_of_Biological_Molecules #AK_MCAT_v2::#IFD_High_Yield::12-Amino_Acids #AK_MCAT_v2::#Kaplan::Biochemistry::Ch-01-Amino-Acids,Peptides,&-Proteins #AK_MCAT_v2::#KhanAcademy::Biochemistry::Biomolecules::Amino-Acids #AK_MCAT_v2::#KhanAcademy::Foundation1-Biomolecules::Amino-Acids-and-Proteins #AK_MCAT_v2::#UWorld::400294 #AK_MCAT_v2::#UWorld::400731 #AK_MCAT_v2::#UWorld::402052 #AK_MCAT_v2::#UWorld::402303 #AK_MCAT_v2::#UWorld::402578 #AK_MCAT_v2::#UWorld::403409 #AK_MCAT_v2::#UWorld::403719 #AK_MCAT_v2::#UWorld::403832 #AK_MCAT_v2::#UWorld_Books::Biochemistry::Ch-01-Amino_Acids #AK_MCAT_v2::AK_Original_Decks::MileDown::Biochemistry::Amino_Acids AnkiHub_Subdeck::AnKing-MCAT::Biochemistry"

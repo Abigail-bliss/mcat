@@ -1,0 +1,95 @@
+EMT RESUME ADD-ONS — copy/paste into the Glimpse resume
+========================================================
+Keep the Glimpse formatting. Add the sections below where noted.
+Everything here is written to be dropped in verbatim.
+
+
+------------------------------------------------------------
+1) CERTIFICATIONS  — add as a NEW section, placed at the very
+   top (right under your name/contact line, above EDUCATION).
+   This is what they screen for first, so lead with it.
+------------------------------------------------------------
+
+CERTIFICATIONS
+    New York State EMT (EMS Certification) — Active
+    NREMT — Nationally Registered Emergency Medical Technician (EMT-B) — Active
+    Connecticut State EMT Certification — Active
+    BLS / CPR — Current
+    NYS Driver's License — Valid
+
+
+------------------------------------------------------------
+2) EDUCATION  — add this line to your existing Education block,
+   above (or below) the University of Minnesota entry.
+------------------------------------------------------------
+
+Fordham University                                          New York, NY
+Post-Baccalaureate Pre-Medical Program                      In Progress
+
+
+------------------------------------------------------------
+3) CLINICAL EXPOSURE  — add as a short NEW section
+   (put it right after Education, before Experience).
+------------------------------------------------------------
+
+CLINICAL EXPOSURE
+    •  Shadowed attending surgeons in the operating room, observing patient
+       assessment, sterile technique, and coordinated team communication in
+       a high-acuity clinical setting
+
+
+------------------------------------------------------------
+4) PROFESSIONAL STRENGTHS — bullet bank, grouped by quality
+   Structure the resume as: CERTIFICATIONS -> EDUCATION -> then
+   these. Pick the strongest 6-9 bullets (roughly 1-2 per quality)
+   so it reads as one clean section, not six mini-lists. The
+   [labels] are just so you know what each maps to — DELETE the
+   labels before using. All are grounded in your real experience.
+------------------------------------------------------------
+
+WORKING AS A TEAM
+Coordinated across multiple teams during high-stakes, time-sensitive work, using structured handoffs and clear role ownership to keep everyone aligned under a tight timeline.
+Thrive in interdependent environments where others rely on my work — held a role that multiple teams depended on daily and never let them down.
+Won a company-wide, cross-functional competition as part of a small team that built and delivered a working product start-to-finish under a deadline.
+
+COMMUNICATING
+Communicate calmly and clearly under pressure, translating complex, fast-moving situations into plain, actionable updates for the people who need them.
+Conduct structured handoffs and status reports so nothing critical is lost when responsibility passes between people.
+Comfortable engaging directly with people across all levels — from peers to senior stakeholders — and adapting how I explain things to the audience.
+
+PROBLEM SOLVING
+Diagnose and resolve time-critical failures under pressure, staying composed and methodical while working toward a fast, correct outcome.
+Approach unfamiliar problems by breaking them down, prioritizing what matters most first, and acting decisively with incomplete information.
+Repeatedly built solutions from the ground up in areas I had no prior template for — learning quickly and delivering reliably.
+
+AMBITION
+Pursuing a post-baccalaureate pre-medical program while working full time, driven by a long-term commitment to a career in medicine and patient care.
+Consistently sought out and took on high-responsibility work early, owning critical systems well beyond my job title.
+Endurance athlete (marathon runner, rock climber) — the same discipline, consistency, and long-horizon focus I bring to my goals.
+
+INTEGRITY
+Trusted with sole ownership of critical, high-stakes work where errors carry real consequences — held to a standard of accuracy, honesty, and strict adherence to procedure.
+Take full accountability for my work and follow through on commitments, even when no one is checking.
+Do the careful, unglamorous steps correctly every time rather than cutting corners.
+
+
+------------------------------------------------------------
+5) AVAILABILITY  — optional one-liner, add near the top or bottom.
+   Ambulance companies actively scan for this.
+------------------------------------------------------------
+
+AVAILABILITY
+    Seeking per diem work. In August, available two shifts per week (weekdays or weekends). From September onward, during the school year, available roughly two shifts per month (one every other week). Flexible across 8-, 10-, and 12-hour shifts.
+
+    [shorter one-line version:]
+    Per diem availability: ~2 shifts/week in August; ~2 shifts/month (one every other week) September onward. Flexible on 8-, 10-, and 12-hour shifts, weekdays or weekends.
+
+
+------------------------------------------------------------
+QUICK NOTE
+------------------------------------------------------------
+For this application you can (and probably should) trim the heavy
+AWS / PySpark / Terraform skills list way down — a dispatcher or ops
+manager scanning resumes won't read it, and it pushes your EMT cert
+and availability further down the page. Certification + availability +
+"reliable, calm under pressure" is the whole pitch here.

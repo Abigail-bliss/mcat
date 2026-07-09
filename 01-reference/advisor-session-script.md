@@ -1,0 +1,352 @@
+# Advisor Session — Script
+
+> Parsed from `advisor-session-transcript.txt`. Text is **verbatim** — nothing added, removed, or
+> rewritten; only speaker labels inserted. Speakers assigned from conversational logic (who's asking
+> vs. answering, "you/your" vs. "I/my", content cues). Spots I'm unsure about are marked inline with
+> **[?]** and collected in the "Uncertain assignments" list at the bottom for you to review.
+
+---
+
+**ADVISOR:** Tell me a little bit about yourself and what you would like to accomplish today. How can I support you?
+
+**ABIGAIL:** Yeah, so, um, I don't know if you got the, when I like made the appointment, I included some details. I don't know if you got the chance to read them, but, um, um, I am, I'm Abigail. I am 25 years old. I graduated from the University of Minnesota in 2023. And I noticed that you worked there previously, which was one reason that I picked you.
+
+**ADVISOR:** Oh okay.
+
+**ABIGAIL:** Um, but, yeah, I'm kind of just, I, so I'm doing a post back right now and I'm working full time. And, um, I'm just kind of in a, a position where I'm not sure, um, right now, I'm kind of planning on applying in 2027. Um, but I feel like, um, you know, if I apply in 2027, that's gonna be like, It's really cramming it in there. And it might, it's not gonna be like the highest quality application that I can create. Um,
+
+**ADVISOR:** But let me, um, interject for one moment, so I already, when you say applying in 2027, do you mean literally and then matriculating in 28 or applying?
+
+**ABIGAIL:** Okay, okay. Yeah. Yeah. Yes, yes. Um, so, you know, um, I kind of just want to, like, lay out all the context, um, and kind of see that you can get a good understanding of, like, who I am as an applicant so that you can tell me, like, how strong is your candassy? Um, you know, should you aim for 2027? Um, I, you know, I really would like to continue living here in New York City. Um, and, um, I feel like that is, like, within reach, but I don't know if, um, you know, if there's a genie would tell me, if you waited till 2028, your application would be strong enough and you would get in in New York, then I'd be like, okay, I'm doing that. But, you know, I don't, um, Yeah, I've I've already accepted that I'll go to medical school anywhere. It's not like, uh, like that I, that's something that, you know, I, that I, that I've accepted in that. You know, I would, I would like to do, but, um, I'm supposed to take the MCAT in September and, um, it's just not going as well as I hoped and, um, So, and, uh, there's just, you know, and then I need to take the MCAT September, if I want to apply to Albert Einstein. Because they don't accept anything after September. And, you know, there's just, there's so many things. And I just kind of exhausted the people around me, like, their advice and perspective. Like, I need a professional to tell me what to do.
+
+**ADVISOR:** Yeah. Let me ask you a couple of questions. I don't generally read in advance. We reserve, um, all time for discussion, um, during the meeting that's scheduled. I'm asking these questions completely from a blank site, but... They will get us to where we need to be heading, hopefully. Um, you mentioned New York. Are you trying to become a resident of the state of New York so you can stay and get your best chances of acceptance in the state, or just New York as an interest?
+
+**ABIGAIL:** I live in New York City.
+
+**ADVISOR:** You live in New York?
+
+**ABIGAIL:** I am a resident. Yeah.
+
+**ADVISOR:** Yo, you're already a resident of the state of India. Yeah, yeah.
+
+**ABIGAIL:** So I... Yeah. So I moved here after graduation in 2023 and I've been here for 3 years. So, um, yeah.
+
+**ADVISOR:** Right. okay. So you went to the University of Minnesota, did undergrad there, and graduated in 23. What did you study?
+
+**ABIGAIL:** Yeah. I studied computer science, so I've been working as a software engineer for the past 3 years. in machine learning. So, yeah.
+
+**ADVISOR:** And is this a career switch or just a, like a delay to try, you know, like, you'd been thinking about it for a while, you've done other things to prepare.
+
+**ABIGAIL:** Yeah, it's a total career switch. I, um, you know, about a year ago was like really evaluating my, my path forward and, um, I, I had an epiphany, which actually came with a lot of thought, but I, um, I, I really, I, I gave it a lot of thought and I realized that, uh, I could actually go to medical school. It's a feasible thing and, um, so, yeah, career switch.
+
+**ADVISOR:** Good. Okay, so full on career switch. And you're doing a postback right now? Tell me sort of how you're doing that, piecemeal, all the carts sort of, or in a defined program.
+
+**ABIGAIL:** Yeah, so I'm doing my postback at Fordham, which has a postback program. So, which is really nice. So I'm doing all my classes there. I might need to take one or 2 somewhere else. Um, but, um, they have a committee letter, um, so that's nice, and yeah, it's all, I, you know, I work full time, and then after work, I go to school, and, um, I'm taking, like, 9 to 11 credits a semester. Um, and so one of the things that I've been considering is, um, maybe dropping a class this semester, so I have more time to get my clinical hours because I have, um, I earned my EMT license, but I haven't had time to work.
+
+**ADVISOR:** Sure. Yeah, that's, um, yeah, you wanna get the license, obviously, and then you wanna be able to put it into good use?
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** Or, I mean, it's been a while since I've looked at Fordham's post back auction, but just briefly, tell me, is it sort of, are you following sort of the traditional path where you take 2 bios, 2 labs, 2 cap, Ms, organic, physics, math, English?
+
+**ABIGAIL:** Yeah, yeah, more or less. Um, I am, uh, there's like a little, some things that are out of order, and I already took physics in my undergrad, and I already took psychology in my undergrad, but I am, yeah, I'm doing like, Gen Chem, Genobio, Orgo, Biochem. Um, Yeah, those classes. I have the other ones, though, yeah.
+
+**ADVISOR:** And when did you start that?
+
+**ABIGAIL:** In fall 2025.
+
+**ADVISOR:** Okay, and how's it been going?
+
+**ABIGAIL:** Good. Yeah, right now I have a 3.92 GPA. Um, so that's good. Um, I'm really happy with, uh, really happy with the program and I'm really happy with my grades. Um, not perfect, but, um, yeah.
+
+**ADVISOR:** And you feel like you're accessing the information and the way that you're feeling knowledgeable about the content, it's contributing to your academic readiness.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** Well, as much as you can tell right now. Academic performance at Minnesota.
+
+**ABIGAIL:** Yeah. I got a 3.52 GPA. You know, I wasn't like, at the time I, you know, this is not part of my plan, so I just was like, I just need a job. Um, But I, I, yeah, I made sure in computer science and I mitered in product design. So, uh, and I really liked my education there as well.
+
+**ADVISOR:** Good, good. to hear. Um, great. So I feel like just in terms of your academic readiness, I would not have advised you differently. You're doing all the right things. I don't recommend post-backs to many people, but you're the type of applicant that I would recommend it to your clear career changer. had not had, um, this exposure before. And so you really want to show the committee your academic readiness in a very concentrated way. that allows you to be seen as successful and all things are pointing towards that in a big way. Tell me about the MCAT hesitation. It is what I sensed when you had spoken about it earlier, if that's not the right word, I apologize. bring me out.
+
+**ABIGAIL:** No, no. Yeah, so so I, like, frankly, I think I can do really good on the MCAT. I'm a really great test taker. I'm really smart person. Like, I know that. Um, but I don't have, I'm not taking Orgo and I'm not taking biochem. Um, and basically, like, an, uh, in order to set myself up to be able to apply in 2027 without quitting my job, um, I, decided that, and, you know, the best way I could take the MCAT with the longest runway of time ahead of it was taking it in the beginning of September. So that I could take all of my PTO right before it, which I'm doing, like 5 weeks. Um, and that 5 weeks doesn't overlap with school. And, um, so, and I've had a really busy summer, so like right now I'm working full time and then I, and I study in the rest of my time. And I took a diagnostic exam before I learned Orgo, before I learned biochem, and like really my biology class was like, uh, not very rigorous at Fordham, and so like my biology is not like, uh, very solid. So, um, I started with, like, not a whole lot of content and I still got a 496 and I was like, great, like, I basically loan, no, less than half the content and I'm, I'm, like, scoring, you know, poorly, but, like, relatively, like, some people work hard for this. I'm like, this is setting me up. And then, you know, in the following practice exam, my score did not increase very much. I was like, it's causing me some doubt and, um, you know, it's just, it's just been stressful and I feel like, um, ultimately, I feel like I'm a person who could get a 520 plus. But I don't know if I'm gonna be able to do that in the time, in this timeline. And so that's kind of where my hesitation is.
+
+**ADVISOR:** What, based on your self-assessment and the time that you've been on this path and and going off of what you said, you're a good standardized test taker? Is that what I heard earlier? You perform well academically, you sound confident, which is so great to go into like this type of a rigorous path, right? Um, based on your self-assessment, then, where do you think you need to put some time in? Is it the content that is not accessible, is it the type of test that it is? What are your self-assessment?
+
+**ABIGAIL:** Yeah, I think the where I'm struggling is that I, um, having, I'm not having enough time to, um, I'm having a lot of time to learn the content, but to write it to memory is like where I'm running out of time, like in the day. So, um, you know, and it's, in school, there is like the lecture, some type of assignment, and then the exam. And, like, in this course that I've, I'm taking, you know, wise prep and, um, the way that, like, that middle piece is missing. And there's like endless ways to do the middle piece, like, um, you know, onky, whatever. So on and so forth. And I have access to all the resources, but I am running out of time to use them. So, um, I think that's where, great, the struggle is.
+
+**ADVISOR:** So when you look at the MCAT content, not necessarily reflecting back on when you actually took the test, but through your pre preparation and your preparation since, it feels accessible. Like you understand it, it's not necessarily confusing or just difficult. If you put in the time, you come to see yourself progressing. You can see your progress.
+
+**ABIGAIL:** No, definitely. And like, especially since I took the diagnostic and then I since covered or go and biochem, and then took another diagnostic and then that one was so different because I, when I didn't know something, I, like, I, I'd seen it before. So I kind of, I knew what I didn't know. And I took it the 1st time. It was like reading a different language. So I feel like, yeah, given the time, I would, the content, when I learned the concepts, I'm like, oh, that makes sense. Yeah.
+
+**ADVISOR:** Yeah. Okay. Um, let's talk a little bit about your preparation outside of the formal academic learning environment. So you have received your certification to be an EMT. What other experiences would you, you know, based on whatever it is you know about applying and getting ready to go to medical school? What other experiences would you apply to your preparation? Your work experience is extraordinary and excellent, and that will definitely be a part of your application, a lot of transferable skills. What more direct experience in medicine have you had?
+
+**ABIGAIL:** Um, I've had a good amount of shadowing hours, but, um, I know that's not like the best thing. So outside of that, I have not, I have not had anything. There's endless opportunities to volunteer here in the city. Um, so, um, but that is it. My whole family works in medicine, but that's like, So I'm like familiar with the field, but you know, it's not something. Um, Putting on my application. So...
+
+**ADVISOR:** No. No. No. Yeah, you're gonna put in your own work. obviously, you know. Um, Great. So I think just based on that bit of information, you're, if we circle back to the beginning, your initial question was, I think, when to apply, and I think that was followed, my interpretation was, so what do we do with the time that we have before applying whatever that might be? If you feel comfortable waiting, right, a whole nother year, so then submitting, as you had suggested in 2027, then I think that that seems to be the right approach for a couple of reasons. It seems like you want to apply to Fordham. They require a September MCAT take. If you do that, you and you potentially risk not doing as well as you know you can do, right? But you can take it the following September and it would, it would count, you know, you could, you could still apply then to Fordham and you'd be much more prepared. Did I capture that?
+
+**ABIGAIL:** Yes, just a quick correction. So I will not apply in 2026. Like there, I will not matriculate in 2027.
+
+**ADVISOR:** No, no, no, yeah, yeah. Okay.
+
+**ABIGAIL:** So, and then, um, yes. And so then like the, the concern is that for, for Albert Einstein, is that, um, I would, yeah, I would, I would ply and just, it would be like a waste. I mean, not like a waste, but, um, the, the reason, like, I need to take the MCAT is that I at least have the opportunity to apply there. And at September, you have to take it to apply there for 28 matriculation.
+
+**ADVISOR:** Mm-hmm. I guess I don't understand that.
+
+**ABIGAIL:** Yeah. So, um, they don't accept. So in the 2027 cycle, they don't accept an MCAT taken in 2027. They only accept through September of the previous year. I don't know why. Uh, it's just a rule. So, like, if I don't take it this September, that's, uh, you know, I could take it in January after this fall semester or, you know, in in the spring when a lot of people take it right before applying, but I just wouldn't be able to apply to Albert Einstein because they don't, they won't accept that score.
+
+**ADVISOR:** They won't take it in 27, which is the year that you're physically going to submit your application to them. What about taking it later this year? **[?]**
+
+**ABIGAIL:** Um, the last date is in September.
+
+**ADVISOR:** It is in September. Yeah. Um, okay. Then would you delay an entire year?
+
+**ABIGAIL:** Um... I guess what I want to know is, like, um, really, like, in your opinion, you know, from, you know, what you know about me, if I apply in 2027, you know, let's say at the, at this time I have, like, a 100, you know, a 100, a 150 hours of EMT work. And, um, you know, break grades. And let's say, you know, if my MCAT goes, how I think it might go, then like 515. Um, which is, you know, not my best. Hmm. Um, and, you know, my, my, my career and, um, you know, these other things, um, like, is that strong? Or, like, are you just kind of, like, mm, it kind of cut into close. Might as well just wait till 2028.
+
+**ADVISOR:** Yeah. So a couple thoughts on that. but a question really quickly. When do you finish your post back?
+
+**ABIGAIL:** Um, in, in, I could finish it in the spring and like have all the, all the, uh, I could finish most of the classes by the spring. Um, and then take some over the summer or over the next year, like while, you know, theoretically interviewing. yeah
+
+**ADVISOR:** Yeah. So... There are a couple of ways to go about this and hear my thoughts. Since you are completely a career changer and a non-traditional student, right? I would want you to go in to the application cycle with nearly 0 components of your preparation TBD. So, for example, I would want you to be able to submit your application with your post back completed. That way you have a complete GPA based on as many credit hours as possible, and that way a committee can feel confident in your academic readiness, right? I would want you to have taken the MCAT, and again, for the same reasons that I said, The experiences part, there are a couple of ways to go about doing this. You completely, you apply and you present as a nontraditional student and you write your application from the viewpoint of transferring your skills, right? You have a very clear story as to why medicine, why now, what you've done, and you reflect on your experiences. And that will, no matter what, be a part of your application. That said, the amount of time spent doing direct medically related work, clinical work, will be limited if you, if you are thinking 150 hours is what you think you can put in in the next year. I'm not saying it's not a lot. it's not a lot, but even in comparison to other, you're in the minority in terms of, um, not the time of life you're applying, but you're a non-traditional student. You're a career changer. That's a small group of people, the career changers, or a small group of people in the applicant pool.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** Right? So most that are applying later, they've continuously been preparing to go to medical school.
+
+**ABIGAIL:** Yes.
+
+**ADVISOR:** For whatever reason, they've just taken extra time. Didn't get in the 1st time, intentionally took time off. Uh, was doing public health, but now transferring over to medicine. You know, so somewhat related, the computer scientists or software engineer or the chef, these are all people in my past that have gone to medical school. Those are, that group is smaller. Right? So, a couple things that I tell that group of individuals is one, you should have a clear, as clear of an idea of why and what you want to do in medicine is possible. Not to the point where you're presenting yourself in a way where I just want to be this kind of a neurosurgeon and that's it. Not that detailed, but a good, a good reason, a good plan for what you want to do for your future. I don't know how you would determine that without putting any, um, some exposure work, right? Some additional work beyond the EMT or within the EMT experience. But going to be told something else. So, you know, I want you to respond to what it is that I'm saying. before I continue.
+
+**ABIGAIL:** Um, yeah, I mean, that all makes perfect sense. Are you, are you saying that, like, like, 150 hours, like, might not be sufficient enough, like,
+
+**ADVISOR:** I think if that's the only medically related experience you're going to have, and you're going to put a greater weight on your work experience to date, which again, I'm not saying that that's not important. You will have application when you write about that experience. And again, the transferable skills. But if you're only medically related experience is going to be that, I, based on my experience and what I can take you to learn is that, Admissions committees, as much as they continue to evolve, there is this sort of conservative thought around getting some direct experience over a period of time. So substantive and substantial, right? They won't put more weight on your other experiences and transferable skills.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** Okay. What other, right? Because I don't think you're going to go back to school to get a research experience. That's not going to be... Unless you did that already.
+
+**ABIGAIL:** Yeah, no, I don't have any research experience. I mean, a thought that I have is, um, you know, my my career skills, like, might be able to transfer over to some research skills, like, you know, some people, like, um, and I actually have a lot of friends in research and I've been discussing that with them. I mean, that, so that, that's kind of a, that's a possibility that's like, strict, like, I think only like a feasible in, you know, if I apply in 2028. But, um, you know, the, the way it is now is like, if I want the, the scenario where I get 150 EMT hours is only if I drop a class this semester and therefore have like even let, like, I would have then, uh, 2 physics labs and a physics lecture, like not completed when I apply. So, you know, there, but there's, I mean, Yeah, it's, I think at this point it would, if I wanted to get more hours in, it would come down to doing less class.
+
+**ADVISOR:** Yeah, yeah. And I want you to have the academic credentials that you need, right? And not be surprised that when you do get into medical school, they do a transcript review and some school based on some policy that they have says, you need to take these classes and then you're forced, you know, to take them in the summer before you matriculate, which I don't think you'd be opposed to doing, but, I want you to have components of your application, you know, completed and and, um, Yeah, just competed and be able to present, right? And that sort of this piecemeal situation. Um, So, when you think about the MCAS application, I imagine that you've reviewed it and have knowledge of it, right? They have that experience section. And obviously have your personal statement that you'll write. What experiences now can you say, well, serve as evidence of your desire to go to medical school in your readiness to go to medical school? So, AMCAS allows the input of 15 experiences. And by no means, please know that I'm not saying that this is what you need to go into medical school and be successful. We've had a 25 minute conversation. I feel like you know what it is that you want to do. You seem confident and you come with some knowledge. So I think this will work out for you. But committees don't review based on what it is that I'm telling you, right? So my advice is based on how these review and what the Mcast application expects. So you have that experience section and the expectation is that you're going to input, you know, 10 to 15 experiences. What would you put into those spaces? based on what it is that you've done to date that's medically related?
+
+**ABIGAIL:** Um, okay, did. What would you say? **[?]**
+
+**ADVISOR:** As of right now, it would be like, no, but like, year from now, what would you be? **[?]**
+
+**ABIGAIL:** Yeah, um, I think, you know, the the EMT work, um, the, you know, I can definitely get some some volunteer work and, um, but, like, beyond that, that's directly medically related, you know, under shadowing. Um, but beyond that, there, there'd be no, no, nothing else.
+
+**ADVISOR:** Yeah. And so then you'd have, but you'd have your work experience.
+
+**ABIGAIL:** Oh, yes, yes.
+
+**ADVISOR:** Yep, but I know my question was about medically related. So let's move on then. So then your work experience, what other things would you put on there?
+
+**ABIGAIL:** Yeah, um, you know, I don't really know, like, what kind of, like, what the, like, if hobbies count or anything, but there are like 15 different categories.
+
+**ADVISOR:** So yeah, hobbies put a hobby down. leadership experiences from college or since college. service, right? Clinically, clinical medicine, but we've already talked about all of your medically related experience, but what about like leadership experiences from college? Or college?
+
+**ABIGAIL:** In college, I was in a business frat and I had some like roles in there with like the very, you know, big leadership roles, but I was definitely like active within that fraternity. It was like professional, you know, his business. Um, and then, um, the, like, personally, like I'm a marathon runner, I run several marathons, and so that is part of like my identity as a person. Um, and it, um, you know, like, really, like, I do have a lot to say about my career, but I know it's, like, really only one experience. Um, I'm really excited about, like, truly, really excited about, like, the possibility of, like, bringing my career skills into medicine. And, um, like, you know, bringing, like, machine learning and AI and medicine together. I know a lot of institutions are very invested in that as well. So, uh, but, you know, I haven't, there's like, I haven't done anything outside, like, to, I have not acted on that desire, and I was hoping, like, I could find some research or some, maybe or come up with, like, a project or something. But, um, you know, Those, yeah, that's that's really it. I mean, up until I started this journey about a year ago, I was just like, living in New York, obsessed with running, doing good at my job, and, like, that was it. Yeah.
+
+**ADVISOR:** Yeah. So then my next question is, and I think some people start with this question, but I sort of insert it in the middle or towards the end. So, while I'm at medical school. **[?]**
+
+**ABIGAIL:** Um, medical school, like, something that I really miss in my job, um, particularly, uh, because I work from home, um, but, uh, is that if there's like really not a human component to it. And, um, like I don't help people. And, um,
+
+**ADVISOR:** like you said, you don't help people?
+
+**ABIGAIL:** No, like, I'm not helping people. Like the outcome of my work is like, is like serving higher quality recommendations to a person. So that they read content. Like that's the goal. And um, that's not very fulfilling. And I kind of noticed, like, the best, like, the highlight of my day would always be, like, if someone asked me for directions outside. I live like, um, there's a lot of hospitals near me and there's there's a lot of people looking for directions and they can just tell, you know, and I'm like, and they'll ask me for directions and that was like, oh, I'm like, yes, like let me give you directions. And someone would ask, like, how's your day? I'm like, 0 my gosh, well, someone asking for directions. And, um, so, you know, I, I've, like, really missed, like, that, and I want to hear about other people's jobs that help people, I'm like, dang, that's, I am really jealous. Um, And, um, like I mentioned, like, my family works in medicine, and so when I talk to my, my sister or my father, Um, I'm like, okay, let's tell, how are your patients? And we'll just talk for hours about it. And so, um, you know, I've always had a real interest in medicine and it wasn't until I faced like, uh, the idea that my career is being threatened by AI. Um, that I was like, I don't always joke with my friends, like, I'll just become a doctor. Like don't worry. And then, like, one day I really actually like thought to myself, like, like, could I? And I had no idea, like, a post-back existed. Like, I, you know, and I like, once I realized that this was like an actual possibility. Um, I was like, wait, I actually, I think this is something I do want to do.
+
+**ADVISOR:** Um, and why? Why do you want to do it?
+
+**ABIGAIL:** Why do I want to do it? Like, To help people, and to have a fulfilling career. And I wanna, so I can do something that challenges me, and helps people.
+
+**ADVISOR:** Mm hmm.
+
+**ABIGAIL:** and get better at it.
+
+**ADVISOR:** Mm hmm.
+
+**ABIGAIL:** For 40 years. Until I retire. Like, I'm like, this is my career. There's like 45 years of it ahead of me. Like, how do I want to spend it? And if I can, like, take what I enjoy for my current job, which is like, that it's very challenging, it's intellectually simulating, and I can get better at it. and apply that to an outcome that I actually care about. I think I would be happy. And I think I would be really good at it. I think I would be a really good doctor. I think I'd be... really empathetic, and I'm, like, good at supporting people that are close to me in my life. And so, yeah, I think I would enjoy it, and I think I would be good at it.
+
+**ADVISOR:** Okay. So, what is the evidence that a committee could look at to understand and, um, feel confident in your empathy and your love for people and your desire to help? in the medical field. What evidence will you give them? Um... So you don't have to answer right in this moment. But, um, that's what I want you to think about as you prepare your application, you prepare yourself, right, over the next year or 2 years. I think that's what the gap is. I have no doubt that you can fill that gap. But you are going to have to fill it. You are a, I want to help people. I have a skill set and some knowledge that could really benefit medicine. It could also benefit education, it could benefit health policy, it could benefit public health. You're going to have to create, um, the picture that you want an admissions committee to look at that, and then have, based on that view, have a clear understanding of what you're interested, interest is, what you want to do, what's the evidence that you have, you know, collected over time to then be able to draw this picture for them. That's the missing piece right now.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** Um, so then... And it can't best come from your work experience and, right? which I know you already know.
+
+**ABIGAIL:** Okay, so then, like, what is your advice to me? Like, you know, like, let's let's say I I can definitely get the EMT hours that I'm kind of planning for. Um, like, beyond that, like, You know, like, yeah, what's your advice to me? And I guess what I'm hearing is that it sounds like if I can't, Um, Is that I should prioritize getting that experience over completing my post back? And so, like, that is leaning me towards, like, maybe, you know, pushing my, my application down the road a little.
+
+**ADVISOR:** Yeah, apply, considering submitting in 28 for 29. matriculate. So, I think you spoke to this a little bit earlier and I had had that thought pretty quickly is what can you do in your current work environment? That um, would utilize your knowledge, your skill set, your expertise, and apply it to something in medicine. Right? You talked about the ability to maybe think of a project. Are there places where you could contribute in the in a role of service? Um, again, based on the skills that you have, the knowledge that you have, can you apply that to a clinical setting, um, a community health center, somewhere, they're, like you said, there are plenty of opportunities. Um, And I think for you, it's, it's not gonna be like, I'm gonna go and, um, distribute food at a, at a food distribution center that I'm not saying, I'm not suggesting that you spend your time doing that. You certainly can. It does good work. And should you want to do that, right? I think what you should also focus on or focus on instead is how can you utilize what it is that you've done? And create opportunities for yourself that will take what you know and then apply it to medicine or apply it to being in service to others, but in the context of health. Um, yeah.
+
+**ABIGAIL:** No, no, that is, you would know better.
+
+**ADVISOR:** Yeah, but that I would advise you to prepare yourself. I think you have to, a little bit, and I tell this to applicants in different ways. You have to do a little bit of the basic stuff that admissions committees just expect to see because that is what they're most familiar with, right? You will be an asset to a medical school and to the profession, given what it is that you've done outside of medicine. But in order to be able to do that, you still have to do a little bit of the other work that the majority of the applicant pool is doing.
+
+**ABIGAIL:** Yeah. Okay. All right.
+
+**ADVISOR:** So, in addition to showing like what you can contribute based on what it is that you've done.
+
+**ABIGAIL:** Yes.
+
+**ADVISOR:** So, okay.
+
+**ABIGAIL:** So what I'm hearing is, like, you need to prioritize the EMT hours. Um, and that would be like the thing that you kind of have to do, right?
+
+**ADVISOR:** Yes.
+
+**ADVISOR:** The shadowing you've done.
+
+**ABIGAIL:** The shadowing I've done, then, but beyond that, what is lacking is this is something that's a little more compelling. Right? Like, the EMT hours is like, correct me if I'm hearing this wrong, but that's like, that's like the baseline, like, that's expected. But they want some evidence to back up like my my narrative. Um, and my desire, and that would, so that would be doing something else. **[?]**
+
+**ADVISOR:** Whatever it is.
+
+**ABIGAIL:** And, um, you know, I just want to circle back to what you said about having the classes complete. Um, you know, I guess, I don't know. I'm sure you haven't spent your days just browsing medical schools, requirements lists, but I noticed for a lot, like a lot of them, they're, they'll have, um, most of them don't specify like when they need to be done. And most will say they don't they they'll say they don't need to be complete. Some are like, they do need to be complete by this day or whatever, but, um, so I was like hoping to like lean into that by, you know, because by drop, you know, taking 3 classes a semester, set of 4 and then the same in the in the spring and then pushing. Is that like, you know, like, like, let's say, so, like, that, from your perspective, weekends by application, but if I would, what I gain is, like, what, what you're suggesting to me is that, like, an equal or even better, like, counterweight to that? impact?
+
+**ADVISOR:** So everything you said in terms of what you know about requirements and most schools saying that you can complete your complete their requirements prior to that all is correct. And I should have maybe been more clear before. let me try and explain it again. Given that you are a nontraditional student and you are a very clear career changer, I just want you to go into the application process with as much evidence of your readiness as possible. Well, that's why I was saying, like, I would love for you to have all of your classes done. So you have, I, don't know how many credit hours you're pursuing in this postback, but say it's like 40 credit hours or 35 hours. I don't want you to go into the application process with like 20 and then you still have 3 or 4 other classes to fulfill, right? Especially if, and and hopefully your your sport, not scoring, but you're performing in that like 38, 4.0 range. right?
+
+**ABIGAIL:** Yeah, yeah.
+
+**ADVISOR:** The other reason is, is we don't know what your MCAT outcome is going to be. I hear your confidence and I and again, I'm on the same train that you are. I can sense it, that you will do well. But if your MCAT is a little bit lower than what you had expected, and then you still have classes to take, like, I'm just trying to figure out, like, what, what, what can you do for your application? that you can just complete and be like, all right, that part is done, because your experiences, you're gonna, you know, you're sort of putting things together and it's not going to look like a traditional applicant, and that's okay. But at least your academic profile could.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** Right? There could be no there. I would like the least amount of questions. Um, from the committee related to any aspect of your application as possible.
+
+**ABIGAIL:** Yeah. Yeah.
+
+**ADVISOR:** I clarify what I was trying to...
+
+**ABIGAIL:** Yeah. Yeah. Okay. Yeah.
+
+**ADVISOR:** So again, you don't have to. This is just my advice in terms of get as much of it done as possible. So that way you have that to just say, hey, this part is done. This part I'm confident in, taking care of it. 4.0, whatever, 5, 15, 20 I mean, CAT, that's like, if that's what you're shooting for, let's get that done. And then there's no question about that, right?
+
+**ABIGAIL:** Yeah, yeah. Okay, so, um... Just talking numbers. Yeah. So, um, All right, let's let's say, Let's say, well, you know, 125 EMT hours, okay? Like, A limited, but meaningful experience outside of that that connects my professional skills to my career medicine, side project, clinical something, whatever. Um, and then I continue to perform like 339 to 395 GPA. What, like, what MCAT score would you be like, that is a minimum acceptable score for you to apply for things to even, like, to, you know, want to even, yeah. And I don't want to go to, like, the middle of nowhere. You know what I mean? **[?]**
+
+**ADVISOR:** But you're willing to go.
+
+**ABIGAIL:** I'm willing to go. to go a few places, but yeah.
+
+**ADVISOR:** Yeah. Yeah. Oh, um, Hi, I'm Cat Spores, and GPAs are still very attractive to admissions committees no matter what people say. Um, There are a small, there's a small percentage of applicants in that like 90th percentile, both with GPA and MCAT and doesn't really matter with the GPA, right? 4 point scale for everything for most schools and for most applicants. But really, I, GPA, and MCAP score that don't get into medical school. And based on various different studies, the reasons they're not getting in is because they don't have that other part of the application that really admissions committees do value, right? The teamwork skills, the communication skills, the clear reasoning for why they want to go to medical school, or their reasoning is absent of that service component and that empathic viewpoint and practice. Um, they just don't follow through with that. And so no matter how good of a MCATs bar they have or grades they have, they just don't get into medical school. So I, for you, given that you're a career changer, um, I would want you to have as solid of an academic profile as possible. And you have said, you know, you feel like you can score really well. So let's, you know, shoot for 515 or higher. Um, because then if you don't have some of that other stuff, you might be pushed ahead, you have a little bit of a, a higher profile academically. Does that make sense? **[?]**
+
+**ABIGAIL:** So, okay, so, like, in your opinion, like 515 would be strong.
+
+**ADVISOR:** And I think that's a great, yeah, that's a great score with a 4.0 postback that's been completed recently or yeah.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** Right? You have a, uh, average undergraduate GPA, 3536.
+
+**ABIGAIL:** Yeah, 35, yeah.
+
+**ADVISOR:** Um, okay, all right. Um, so as strong of an academic profile that you can have, I think that just only helps you and could potentially um, offer a greater weight in a decision if you are missing in some other aspects of your application. No, your response to why medicine will, I'm confident it will develop over time. But the committee will look for something more than you wanting to help people, right?
+
+**ABIGAIL:** Yeah, it was actually, I wanted to circle back and ask, like, what do you think? Because, like, that what I explained to you is, like, truly why?
+
+**ADVISOR:** Like, I can hear that in you and I would expect that you can develop that response more because somebody, in response, could say, well, you could do all of what you're saying in the field of education. There are 2 AI is necessary and can be helpful and maybe even in greater ways, right? Because you're impacting youth and and you're starting right from the beginning of life, potentially, depending on what you do, or environmental work or health policy or, you know, public health work. So, What beyond helping people specifically in service to patients, clinical care? Because I don't think you want to do research, that's not where you're going to medical school necessarily. So you want to be in service to patients, you want to treat patients. Why do you want to do it as a physician? What is it about a physician's role? that allows you to help people in the way that you want and how will you apply your, you know, skill that you've been developing in that way?
+
+**ABIGAIL:** Yeah, yeah, definitely.
+
+**ADVISOR:** And the way that the committee will initially see evidence of that is through the experiences that you have. Now, when you get the interview, you'll be able to talk more, right? And people will be able to see what it is that I see and probably even in a greater way because we'll have had more.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** experience to inform that, that response. But until then, you're a candidate on paper. Mm. Okay.
+
+**ABIGAIL:** Um, so, one thing I, I, I do wanna understand is like, is like, if you're scoring this number on your practice exams, leading up to the MCAT, don't, don't take it.
+
+**ADVISOR:** Don't what?
+
+**ABIGAIL:** Don't take it. Like, so there's a lot, there's kind of a notion that it's like, you know, from people are like, if I don't get this score, I'm not applying. And, you know, I want to know, like, from you based on what you've heard, and, you know, the quality of my application, what you think that number is for me. You know, like, if you're, you know, if you're not cracking this number, I would say that's your sign. You should just delay. Mike.
+
+**ADVISOR:** Um, I mean, it's hard to tell right now because I'm balancing Your very confident response to your ability to score really high, and the fact that on a diagnostic test, you scored a 490 something, right? For 97?
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** So, I almost feel like that's, that score does not feel representative of what you're saying you can do. So, I think putting in whatever additional time you need to put in to take then a practice test, right? A full-length practice test. And maybe that should serve as your baseline.
+
+**ABIGAIL:** Mm-hmm.
+
+**ADVISOR:** Right? And I don't know how many times you'd wanted to do that, but whatever you think would be sufficient to to establish a real baseline.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** And then let's work there. But if you feel like you can get, I mean, I don't know that there is a number that I would say don't apply. I'm more con- honestly, I'm more, um, not concerned is not the right word. I want Yeah, I want your investment to truly be in refining your answer.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** to why medicine. I can sense the passion. I do know that you want to help people. I don't know why in medicine yet.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** That's the part that I don't I don't see yet.
+
+**ABIGAIL:** Okay. Yeah. Yeah, that makes sense. I mean, no one's honestly, no one's really ever asked me, like, oh. I mean, they bet, of course, they've asked me, but the answer that I've given was like a sufficient answer for them, and I've just like not reflected on it deeper. Um, so, I mean, beyond like, beyond like being like, simply like, I think it's fascinating. I think it's the coolest thing ever. Like, you know?
+
+**ADVISOR:** It's absolutely is. That's not gonna get the, that's not the answer that's gonna get you in. You can absolutely, it's fascinating. Who doesn't, who would not? I mean, I didn't go to medical school.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** But it's incredible. It's so fascinating. It's so interesting. There's so much you can do with it. And that's not what you're gonna, that's not gonna be an answer that gets evaluated well.
+
+**ABIGAIL:** Yeah, yeah. Yeah. Okay. Um, yeah, okay, sounds good. Is there anything else that, like, you feel like I should know? Any thoughts that you had?
+
+**ADVISOR:** I think you already know this, but it, it, I think your time will be well spent in figuring out what you can do with what it is that you already know. And from what you've been trained to do to date. And I know it's that exciting based on what you said, but there has to be something that you can take from that experience and apply it. And I think if you can do that and it can be somewhat extraordinary or impactful in these next, this next year, to year and a half . Then I think that, with your academic excellence, should position you well.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** not having, you know, the 1000 hours of research and the volunteer experience and the study abroad and the publications and all that. That's what most of the applicant pool is going to have, right?
+
+**ABIGAIL:** Yeah, yeah. Um, okay. Yeah, sounds good. Well, um, I, um, I know like our time is is almost up. Um, if it, okay. Um, so I, you know, I, um, This is kind of what I'm thinking, like, I'm kind of, I'm like approaching this in such a, okay, like maybe clinical way, I don't know, like, I'm really on a tight, like, I don't have a lot of resources for free, like, time particularly. So I'm like, planning this PTO very, like, strategically and like doing all these things and like, it's kind of what's pushing me to be like, what number? This scenario, that, so that I can, like, basically make these decisions, right? Like, what classes do I need to take this semester? And, you know, there's a lot of these, like, very, like, concrete, like, things. Um, but I agree with you, like, my effort needs to be going into, like, deepening this why and then, like, you know, getting the experiences to be able to answer that. Um, But, um, like, ultimately, I still need to decide what classes I need to take this this fall. And, um, so what I'm thinking is, like, taking some time to, um, 1st of all, I'll take another full length and, um, you know, get some more data on that, but then also, like, see if I'm getting any, you know, uh, you know, responses from the EMT applications I put in already. Uh, reach out to the connections they have and and start to understand like how I can apply my skill set, um, am I able to get this position or do this project and make an impact and like, basically just get some more information and, um, like come back to you. And, um, and it's, you know, a couple, and some time with just like some more data and like maybe like reflection and just, um, so that I can maybe carve out some more answers and, Get an understanding of like, Like, if I, if I can make a go, no, go decision about the application cycle, you know, not like this, like, doesn't have to be like imminently, like before the semester starts, but like, in some such a way where I'm not like losing hair, so stressed just just to like, just to end up not applying anyways.
+
+**ADVISOR:** If you're not, if you feel okay, um, about waiting to apply for 29 matriculation, then I believe finish the postback. Finish the post back, you continue to prepare for the MCAT. You don't take it this September, obviously, right? Because you want to take it in the month and in the time frame that will allow you to apply to every medical school that you want, including the one, like a Fordham that has this very... Which I've not ever heard of. Um, then you, that, and that's what you focus on doing, I would say the MT work is difficult to come by. It's easy, right? You got the certification. There are many people that get the certification and it takes a while to apply. There might be volunteer opportunities in a clinical environment or in a community, you know, in an FQHC or a community health clinic. where you can start getting more of that patient interaction beyond the shadowing, right? The shadowing is a passive experience. And that is how it will be seen on your application, but in the interim, you can start doing that. And then when you feel ready to start putting in the work for the MCAT, Um, You continue to prepare as much as you possibly can right now, but again, that's through taking the courses. Then you focus on taking the MKA at a later date. But I think It might serve you well to make a decision about when you want to apply. Otherwise, you're working against a timeline that is not really working for you right now. And you risk having a misstep.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** So, if you're okay with that, then put some time into making that decision sooner rather than later.
+
+**ABIGAIL:** Yeah, I mean, that's exactly why we made this appointment is because I'm like, I need I need a professional to help me decide that.
+
+**ADVISOR:** Yeah. Okay. So if you're okay with it, then it sounds like applying in 28 for 29 matriculation is gives you that runway.
+
+**ABIGAIL:** Yeah.
+
+**ADVISOR:** want. So if that's decided, let's, you know, finish those courses as much as possible.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** And continue to apply to EMT, see if you can fit in opportunities to engage in some kind of service. Um, and, you know, put some thought into the project that you might want to do.
+
+**ABIGAIL:** Yeah. Okay. Okay. All right. Sounds good.
+
+**ADVISOR:** It was nice to meet you. I hope this was helpful in a way that was different from other consults.
+
+**ABIGAIL:** Yes, no, I mean, this was the first. Well, thing, it was very, very nice for you. Thank you.
+
+**ADVISOR:** Oh, no. It adds to all the advice that you're pointing at. So take it and utilize a lot of it. Okay, as much as you want.
+
+**ABIGAIL:** Thanks.
+
+**ADVISOR:** All right, nice to see you and maybe we'll connect again.
+
+**ABIGAIL:** Okay.
+
+**ADVISOR:** All right, take care. Bye, Abigail.
+
+---
+
+## Uncertain assignments to review (marked **[?]** above)
+
+1. **"They won't take it in 27, which is the year that you're physically going to submit your application to them."** — I gave this to the ADVISOR (sounds like paraphrasing back to confirm the rule), but it could equally be you finishing your own explanation. Right before "What about taking it later this year?"
+
+2. **"Um, okay, did. What would you say?" / "As of right now, it would be like, no, but like, year from now, what would you be?"** — This little exchange is genuinely garbled. I split it Abigail → Advisor as a clarification about *whether the advisor means now vs. a year from now*, but the phrasing is ambiguous and could be a single speaker.
+
+3. **"So, while I'm at medical school."** (Advisor) — This looks like a garbled/cut-off transcription of the advisor's actual question (your answer that follows is about what you *miss in your current job* / why medicine). Assigned to Advisor as the lead-in, but the exact words don't parse.
+
+4. **"...so that would be doing something else."** — The stretch from "The shadowing I've done…" through "…my narrative… my desire" I gave to ABIGAIL (first-person "my narrative/my desire" points to you), even though it contains "correct me if I'm hearing this wrong." Worth a look — it's a spot where you and the advisor are finishing each other's sentences.
+
+5. **"…that is a minimum acceptable score for you to apply…"** — Long Abigail turn asking for a number. Confident this is you, but flagging because it's dense.
+
+6. **"Hi, I'm Cat Spores, and GPAs are still very attractive…"** (Advisor) — "Hi, I'm Cat Spores" is almost certainly a transcription artifact (possibly the advisor's name is **Cat**, or it's a garble of "high…GPAs"). Kept verbatim per your instruction. Assigned to Advisor.
+
+### Other verbatim transcription oddities (kept as-is, not speaker-assignment issues)
+- "state of India" → clearly should be "state of New York."
+- "candassy" → "candidacy"; "onky" → "Anki"; "wise prep" → "WizePrep"; "Genobio" → "Gen Bio"; "MKA"/"MCAP"/"MCATs bar" → "MCAT"; "mitered" → "minored"; "simulating" → "stimulating"; "3536"/"339 to 395" → GPA figures (3.5–3.6 / 3.9x). Left untouched since you asked for exact text.

@@ -18,16 +18,68 @@ miss until it sticks), not production (more lectures, more rows). Logging a miss
 
 ## The system of record = a live Google Sheet (NOT a file here)
 Her miss / FL-dissection tracker is a Google Sheet, readable via the **Google Drive connector**:
-`https://docs.google.com/spreadsheets/d/1GOp0fA93ItrhM6Hm_vfaNnBesbvRSbNz51m1l6C_cSk/edit`
-(static export: `../00-strategy/data/Error Log.xlsx`). **Do NOT build a parallel tracker — it
-already does everything.**
+- **Sheet ID:** `1GOp0fA93ItrhM6Hm_vfaNnBesbvRSbNz51m1l6C_cSk`
+- **Tab gid:** `147763115`
+- Use `mcp__claude_ai_Google_Drive__read_file_content` with `fileId` = the Sheet ID above to read it.
 
-Schema: `Date · Section · Source (WP/AAMC/Altius) · WizePrepLoc · Q# · Mode · Topic · Subtopic ·
-Knowledge(x) · Skills(x) · Slip(x) · Description · Action type (learn/review/memorize/practice) ·
-Action · Action done? · What did you do?`
+(Static export fallback: `../00-strategy/data/Error Log.xlsx`). **Do NOT build a parallel tracker — it already does everything.**
 
-**You can READ/analyze the sheet but CANNOT write cells** (no Sheets-write tool). Row entry is hers;
-you are the analysis/prioritization layer.
+**You can READ/analyze the sheet but CANNOT write cells** (no Sheets-write tool). The workflow: Claude reads the staging file + sheet, formats the new rows in the correct schema, and presents them as a copy-paste-ready table. Abigail pastes them in.
+
+### Column schema (left → right)
+
+| # | Column | Type | Valid values / notes |
+|---|--------|------|----------------------|
+| 1 | Date | date | M/D/YYYY, e.g. `6/29/2026` |
+| 2 | Section | enum | `C/P` · `B/B` · `CARS` · `P/S` |
+| 3 | Source | enum | `WP` (WizePrep) · `AAMC` · `Altius` |
+| 4 | WizePrepLoc | text | WizePrep chapter, e.g. `1.6`, `review 1`; blank for AAMC/Altius |
+| 5 | Question # | text | single number or range, e.g. `6`, `16-18` |
+| 6 | Mode | enum | `timed` · blank |
+| 7 | Topic | text | broad topic, e.g. `Orgo`, `mechanics`, `Biochem` |
+| 8 | Subtopic | text | specific subtopic, e.g. `chirality`, `torque` |
+| 9 | Knowledge | flag | `x` if knowledge gap; blank otherwise |
+| 10 | Skills | flag | `x` if skills/reasoning gap; blank otherwise |
+| 11 | Slip | flag | `x` if careless error; blank otherwise |
+| 12 | Description | text | Her verbatim "why I missed it" from WizePrep report |
+| 13 | Action type | enum | `learn` · `review` · `memorize` · `practice` · `n/a` |
+| 14 | Action | text | Specific thing to do; blank when Action type = n/a |
+| 15 | Action done? | enum | `yes` · `no` · `n/a` (default `no` on first entry) |
+| 16 | What did you do? | text | Fill in only when Action done? = yes; blank on first entry |
+
+**Action type definitions:**
+- `learn` = topic not yet covered in WizePrep — park it, don't self-teach now
+- `review` = covered content, needs re-exposure (flash sheet, AnKing unsuspend, re-read)
+- `memorize` = specific fact/formula to add to Anki
+- `practice` = reasoning/strategy weakness — needs drilling, not a card
+- `n/a` = slip or reasoning error with no discrete follow-up action
+
+### Google Sheet update workflow
+
+Runs **once at the end of an FL review batch**, not mid-session.
+
+**Step 1 — Read current state**
+```
+mcp__claude_ai_Google_Drive__read_file_content(fileId="1GOp0fA93ItrhM6Hm_vfaNnBesbvRSbNz51m1l6C_cSk")
+```
+Scan for the most recent rows to find where to start appending (avoid duplicates).
+
+**Step 2 — Read the staging file**
+Read `{exam-folder}/WizePrep_Dissection_Consolidated.md` for all logged misses.
+Cross-ref against the sheet to identify which rows are NEW (not yet entered).
+
+**Step 3 — Format new rows**
+For each new miss, produce a row in pipe-table format matching the 16-column schema:
+```
+| Date | Section | Source | WizePrepLoc | Q# | Mode | Topic | Subtopic | K | S | Slip | Description | Action type | Action | Action done? | What did you do? |
+```
+- Pull Description verbatim from her WizePrep "why" (staging file)
+- Infer Action type from the miss category (K=knowledge → `learn`/`memorize`; S=skills → `practice`; Slip → `n/a`)
+- Default Action done? to `no`; leave "What did you do?" blank
+
+**Step 4 — Hand off**
+Present the formatted rows. Abigail copies them into the sheet (append at bottom).
+After she confirms pasted, the session is done.
 
 ## How FL dissection works (her rule)
 **Only deep-dive content she has ALREADY covered in WizePrep.** Questions on un-covered topics →
@@ -72,6 +124,16 @@ in the session** (she is NOT deferring/parking topics to circle back to — that
    double-entry, no parallel xlsx tabs.
 4. **Google Sheet = one batch at the END of the FL** (optional; "not necessary" per her). Fill it
    together in one sitting from the staging file. Never live, never mid-review.
+
+**Screenshot transcription inbox (`02-review/Screenshots/`):** She drops question screenshots here
+(macOS screenshots — filenames use a **U+202F narrow no-break space** before "PM", so match them with
+globs like `Screenshot*"1.29.03"*.png`, not a typed regular space). To transcribe "the last N
+screenshots," take the N most recent by mtime, transcribe each into the right `BBF_/CPF_Passage_N.MD`
+(create the file if the passage is new; leave `_Screenshot not yet provided_` placeholders for
+questions not yet captured). **After transcribing a screenshot, move it to `02-review/Screenshots/read/`**
+(sibling `read/` subfolder) so the inbox only holds un-transcribed shots. Transcribe **verbatim** —
+only the text/figures in the image, no added commentary. Mark result from the screenshot: red ✗ =
+missed (tag `✗ (missed)`); yellow highlight = correct answer; the filled radio = her selected answer.
 
 **Files in an exam folder:**
 - `BBF_Passage_N.MD` (one per passage) / `BBF_Discrete_Questions.MD` (one per section, for

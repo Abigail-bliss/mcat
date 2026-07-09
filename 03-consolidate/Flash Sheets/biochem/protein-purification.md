@@ -19,3 +19,9 @@
   - column carries a ligand your protein specifically binds
   - **His-tag binds Ni²⁺** resin → one-step, very pure
   - Note: the most selective method — one step if the tag is unique
+
+- **By HYDROPHOBICITY → Hydrophobic interaction chromatography (HIC)**
+  - **bind at HIGH salt** (salt strengthens hydrophobic interactions between protein and column)
+  - **elute at LOW salt** (removing salt weakens hydrophobic interactions → protein releases)
+  - Note: Q11 CPF trap — "increasing salt = elutes" is WRONG. High salt = sticks. Low salt = elutes.
+  - Note: this is the reverse of the intuitive feel — contrast with ion-exchange, where salt also competes but in the opposite sense. With HIC, just memorize: **salt on = bind, salt off = elute**.

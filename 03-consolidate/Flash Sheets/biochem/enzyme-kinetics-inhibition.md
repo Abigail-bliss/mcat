@@ -35,3 +35,19 @@
   - Noncompetitive: KM—, Vmax↓
   - Uncompetitive: KM↓, Vmax↓
   - Mixed: KM↕, Vmax↓
+
+- **Lineweaver–Burke signatures per inhibitor type** (from CPF Q43 miss)
+  - **Competitive** — same y-intercept (Vmax same), x-intercept shifts RIGHT (KM↑), slope↑
+  - **Noncompetitive** — same x-intercept (KM same), y-intercept shifts UP (Vmax↓), slope↑
+  - **Uncompetitive** — **parallel lines** (slope same), both y-intercept UP and x-intercept shifts (both KM and Vmax drop proportionally)
+  - **Mixed** — lines intersect left of the y-axis (both intercepts change, slope changes)
+  - Note: to ID inhibitor from an L-B plot: find what DOESN'T move. Same y-int = competitive. Same x-int = noncompetitive. Parallel = uncompetitive.
+  - Note: Vmax↓ always shows as y-intercept moving UP on an L-B plot (y-axis = 1/V, so higher = smaller Vmax).
+
+- **Cooperativity** (multi-subunit enzymes — binding of one substrate changes affinity for the next)
+  - **Positive** — 1st binding **↑** affinity for the next → **sigmoidal** V vs. [S] curve
+    - Note: classic example = **hemoglobin** (O₂ binding makes the next O₂ bind easier)
+  - **Negative** — 1st binding **↓** affinity for the next
+  - **None (standard Michaelis–Menten)** — **hyperbolic** curve
+  - **Hill coefficient (n)**: **n > 1 = positive** · **n < 1 = negative** · **n = 1 = standard MM**
+  - Note: a **sigmoidal V vs. [S] curve = cooperativity** on the MCAT (contrast the MM hyperbola)

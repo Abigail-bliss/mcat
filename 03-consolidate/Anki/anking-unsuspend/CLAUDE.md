@@ -3,11 +3,18 @@
 This project is **separate from card creation.** The card-creation rules live in the parent
 `../CLAUDE.md` ("Create Anki" directions) and still load here because this is a subfolder — that's
 intentional, so the **Question Misses** workflow stays available. But the *primary activity of this
-project is NOT making cards.* It is **unsuspending the right AnKing cards, in the right order, in
-survivable batches**, so the user reviews premade high-quality content instead of building her own.
+project is NOT making cards.* It is **unsuspending the right AnKing cards**, so the user reviews
+premade high-quality content instead of building her own.
 
-> One-line mission: **Reviewing >> creating.** Surface AnKing content matched to what she's covered
-> in WizePrep, gated so the daily queue never buries her before test day.
+> **Trigger change (2026-07-05):** unsuspending is now **on-encounter, not bulk.** Even topic-by-topic
+> chapter unsuspending surfaced too many cards to survive. **The new rule: unsuspend an AnKing card
+> only when its exact topic comes up in a *missed question* during FL dissection.** The miss is the
+> trigger; WizePrep coverage is now only the *eligibility gate* (don't unsuspend ahead of what she's
+> covered), not the driver. The chapter-batch machinery below is retained as reference but is no
+> longer the default rollout — see **The unsuspend mechanism**.
+
+> One-line mission: **Reviewing >> creating.** Surface *just* the AnKing card that matches a real miss,
+> so the daily queue only grows with content she has demonstrably needed.
 
 ---
 
@@ -18,9 +25,12 @@ survivable batches**, so the user reviews premade high-quality content instead o
   reviewing them** — net negative ROI, since SRS value comes from *reviews*, not card creation.
 - She owns the full **AnKing MCAT Deck** (premade, vetted, ~2,500 content cards) but it ships mostly
   **suspended**, and doing "all of it" is impossible in 75 days.
-- **Decision:** AnKing becomes the daily-review backbone. We unsuspend it in WizePrep-sized topic
-  chunks as she covers each topic. Custom cards are reserved for genuine misses/gaps only (parent
-  CLAUDE.md's `missed::*` workflow).
+- **Decision (updated 2026-07-05):** AnKing is the daily-review backbone, but we unsuspend it
+  **on-encounter from misses** — when a missed question surfaces a topic, unsuspend the narrow AnKing
+  slice for *that* topic (a MileDown subtopic tag, often just a card or few), provided WizePrep has
+  covered it. The earlier plan (unsuspend in WizePrep-sized chapter chunks as she covers each topic)
+  still buried the queue, so it's demoted to a fallback. Custom cards are reserved for genuine
+  *atomic* misses/gaps only (parent CLAUDE.md's `missed::*` workflow + atomic-only gate).
 
 ---
 
@@ -41,8 +51,9 @@ volumes, with assigned/due dates:
 - **Psych/Soc is NOT in that file yet** (no WizePrep P/S reference built). When P/S unsuspending
   starts, we'll need either the WizePrep P/S sequence or fall back to AnKing's own Behavioral order.
 
-**Always unsuspend in step with what she's actually covered** — don't run ahead of her WizePrep
-progress. Confirm the current chapter before each batch.
+**WizePrep is now the eligibility gate, not the trigger.** Don't unsuspend a topic she hasn't reached
+in WizePrep — but reaching it in WizePrep no longer *by itself* means unsuspend. The trigger is a
+**miss** on that topic (see the on-encounter flow below). Confirm coverage before unsuspending.
 
 ---
 
@@ -100,7 +111,20 @@ precise, no fuzzy keyword matching needed. Keyword-within-subdeck is now only a 
 
 ## The unsuspend mechanism
 
-For each WizePrep chapter we unsuspend the **union of the matching MileDown topic tags** (primary
+**Default = on-encounter (per-miss).** When FL dissection surfaces a miss:
+
+1. Identify the specific topic of the miss (e.g. "wobble hypothesis", "ATP synthase location").
+2. Check WizePrep has covered it (eligibility gate).
+3. `findCards` the **narrowest matching MileDown subtopic tag** scoped to the right subdeck → show the
+   count (often 1–several cards). Preview, no content.
+4. On approval, `unsuspend` just that slice. Log it in `progress.md` with the source miss.
+
+This keeps the queue growing only with content a real miss proved she needs. The chapter-batch method
+below is retained as a **fallback** — use it only if the user explicitly wants to pre-load a topic.
+
+### Fallback: chapter-batch unsuspend
+
+For a whole WizePrep chapter we unsuspend the **union of the matching MileDown topic tags** (primary
 axis). Keyword-within-subdeck is only a fallback for the ~2% of cards without a MileDown tag, or to
 verify a topic's coverage.
 
@@ -152,11 +176,12 @@ subtopic children):
 
 ---
 
-## Suggested rollout (starting point — refine with user)
+## Rollout (updated 2026-07-05)
 
-1. **IFD High-Yield (47 cards)** — highest-yield slice, spans all subjects. Good first queue.
-2. **Then chapter-by-chapter off WizePrep**, starting where she is now. As of 2026-06-20 she's in
-   **BBF I Ch 1 (biomolecules / amino acids / proteins)** → Biochemistry + Biology subdecks.
+**No bulk rollout by default.** The deck stays mostly suspended and grows on-encounter from misses
+(see mechanism above). Only pre-load a slice if the user explicitly asks — e.g. the **IFD High-Yield
+(47 cards)** set as a one-time highest-yield seed. The old "IFD, then chapter-by-chapter off WizePrep"
+plan is superseded because chapter-sized batches buried the queue.
 
 ---
 
@@ -173,7 +198,8 @@ subtopic children):
 ## What NOT to do
 
 - Don't read or dump AnKing card fronts/backs into context (IDs and counts only).
-- Don't unsuspend a whole subdeck or run ahead of WizePrep coverage.
+- Don't unsuspend a whole subdeck, a whole chapter by default, or run ahead of WizePrep coverage.
+  Unsuspend the narrow slice a **miss** points to (on-encounter); chapter-batching is fallback-only.
 - Don't make new cards here as the default — that's the parent project. Custom cards only for genuine
   misses/gaps via the `missed::*` workflow.
 - Don't skip the preview/approval step before unsuspending.

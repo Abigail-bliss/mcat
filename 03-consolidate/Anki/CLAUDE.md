@@ -269,13 +269,17 @@ def validate(front, back):
 
 A **miss** = a question the user got wrong on a practice exam/qbank. Misses are **not** a separate physical deck. Each card lives in its normal subject deck and is surfaced through a **filtered deck** named **"MCAT Question Misses"** whose search is `tag:missed::*`. (Filtered decks must be created manually in Anki — AnkiConnect cannot create them.)
 
-**Never duplicate or move a card into a misses deck.** When the user reports a miss:
+**Atomic-only gate (decided 2026-07-05) — apply this FIRST.** Anki holds *only* atomic, discrete, straight-memorizable facts: a molecular structure (glucose, an amino acid), a constant (Planck's), a single equation, the start/stop codons. **Anything conceptual, multi-part, comparative, or reasoning-based does NOT belong in Anki — it routes to a Flash Sheet** (`../Flash Sheets/`, see its CLAUDE.md). If a miss is a whole-system concept gap, do **not** make an Anki card for it; add a branch to (or create) the relevant flash sheet instead. When unsure, ask: "is this one discrete fact I could put on the back of a single card, or is it a concept I'd have to *explain*?" Explain → flash sheet.
+
+**Never duplicate or move a card into a misses deck.** When the user reports a miss, once it clears the atomic-only gate:
 
 1. **Card already exists and covers it** → just **add the missed tags** to that card. No new card, nothing removed.
-2. **Concept exists nowhere** → make **one** new card in its **proper subject deck**, with the missed tags. (Not two cards — the filtered deck surfaces it.)
-3. **Exists but a nuance was missed** → **edit** it to add the nuance (or add one new card only if it's a genuinely distinct testable fact), then tag.
+2. **Atomic fact exists nowhere** → make **one** new card in its **proper subject deck**, with the missed tags. (Not two cards — the filtered deck surfaces it.) A **conceptual** gap goes to a flash sheet, not here.
+3. **Exists but a nuance was missed** → **edit** it to add the nuance (or add one new card only if it's a genuinely distinct testable *atomic* fact), then tag.
 
-So: one fact = one card, in its subject deck, pulled into the misses view by tag.
+So: one **atomic** fact = one card, in its subject deck, pulled into the misses view by tag. Concepts live on flash sheets.
+
+> **Migration hygiene** (when auditing existing custom cards against this gate): dedup *within* the set first (two cards for the same fact → delete the weaker), sort atomic-keep vs. concept-migrate, write/append the concept sheets, then **suspend** (don't delete) the migrated cards so they can be verified against the sheets before final removal.
 
 ### Checking whether a card already exists (cheap — and never AnKing)
 

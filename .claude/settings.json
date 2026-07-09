@@ -2,7 +2,18 @@
   "permissions": {
     "allow": [
       "Bash(curl * http://localhost:8765 *)",
-      "Bash(curl * localhost:8765 *)"
+      "Bash(curl * localhost:8765 *)",
+      "Read",
+      "Grep",
+      "Glob",
+      "Bash(ls *)",
+      "Bash(ls)",
+      "Bash(find *)",
+      "Bash(find)",
+      "Bash(echo *)",
+      "Bash(echo)",
+      "Bash(for * in *; do echo *; done)",
+      "Bash(for * in *; do echo *)"
     ]
   }
 }

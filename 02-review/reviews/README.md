@@ -23,3 +23,6 @@ A required form inside the WizePrep platform (not exportable). Separate obligati
 analytical system. Claude can draft its content from the sheet rows once its fields are known.
 
 > PDFs of taken exams live in `../` (`Altius-FLE-1.pdf`, `FL_5-16.pdf`).
+
+
+
