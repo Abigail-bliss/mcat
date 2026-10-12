@@ -20,6 +20,25 @@ switched on yet.
 
 ---
 
+## 2026-10-12 — Test moved to 2027-09-03; plan rebuilt around coursework
+
+She did not sit the 2026-09-03 exam: not enough hours in the day alongside work, the content was
+overwhelming, and Anki almost never happened (171 of 6,437 AnKing cards ever studied).
+
+**Decisions:**
+1. **Test date 2027-09-03.** The college courses do the content pass (Orgo I now; Orgo II + Biochem
+   spring 2027; Bio and Gen Chem lectures done; Physics taken in college).
+2. **Three seasons, one part of the system on at a time:** school year = AnKing only → questions
+   after classes end → dedicated stretch from 2027-08-01.
+3. **AnKing started today at 25 new/day**, default ordering. Cards are released when she has had
+   the course: 2,491 active (Bio, Gen Chem, Physics, Equations, Orgo I ch. 1/4/5 topics); 3,775 held
+   (Psych/Soc ~mid-Jan, Biochem + remaining Orgo as the courses cover them).
+4. **The plan is a sketch, not a contract.** Nothing is ruled out — WizePrep may come back as a
+   refresher. She will return with more thoughts on the later seasons.
+5. The 2026 plan, summary and weekly plans moved to `../archive/2026-attempt/`.
+
+---
+
 ## 2026-06-28 — Strategy pivot: review > intake
 
 **Diagnosis:** Time is going ~100% to **intake** (lectures, doing questions, logging) and ~0%

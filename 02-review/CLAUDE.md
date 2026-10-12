@@ -6,10 +6,10 @@ prep. This is `02-review/` (formerly `Practice Exams/`), the practice stage of t
 work from; broader context is one level up in `../CLAUDE.md` and `../00-strategy/`.
 
 ## Who / what / when
-Abigail — software engineer, ADHD, fast memorizer. **Test 2026-09-03. Target 520** (diagnostic 496;
+Abigail — software engineer, ADHD, fast memorizer. **Test 2027-09-03. Target 520** (diagnostic 496;
 2nd FL also 496 but on harder Altius, so *not* a plateau). Strong: **CARS (90th %ile)**, Gen Chem,
-Psych/Soc. Weak/new: **Bio, Biochem, Orgo (#1 weakness — never taken)**, Physics partial. Content
-sequence follows the **WizePrep** course. Full story: `../00-strategy/Abigail_MCAT_progress_summary.md`.
+Psych/Soc. Orgo was the #1 weakness in 2026, before she had the course (Orgo I fall 2026; Orgo II + Biochem
+spring 2027). **FL dissection is switched off for the school year** (AnKing only) — see the master plan. Full story: `../00-strategy/Abigail_MCAT_progress_summary.md`.
 
 ## The one principle that governs review
 **Review > intake. Close the loop > log more.** The score-mover is *consolidation* (reviewing a

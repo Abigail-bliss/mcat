@@ -6,6 +6,20 @@ intentional, so the **Question Misses** workflow stays available. But the *prima
 project is NOT making cards.* It is **unsuspending the right AnKing cards**, so the user reviews
 premade high-quality content instead of building her own.
 
+> **Current rule (2026-10-12): course-gated release.** Test date moved to **2027-09-03**; she is
+> taking the prerequisite courses first, so AnKing cards are released **when she has had the course**,
+> not on misses. New-cards/day on the top-level deck = **25**. State after today:
+> - **Active (2,491 new):** Biology, General-Chemistry, Physics-and-Math, Essential-Equations (courses
+>   already taken), plus Orgo `MileDown::OChem::{Bonding,Isomers,Nomenclature}` (80 cards — Fordham
+>   Orgo I ch. 1, 4, 5 covered).
+> - **Held suspended (3,775 new):** Behavioral (2,462 — release ~mid-Jan 2027, when the active pool
+>   runs out), Biochemistry (858 — release as the spring 2027 Biochem course covers it), remaining
+>   Organic-Chemistry (455 — release by MileDown topic tag as Orgo I/II cover each chapter; her course
+>   folders are in `/Users/abigailbliss/Documents/Fordham/Orgo I Lecture/`).
+> - Held card IDs by group: `held-suspended-2026-10-12.json`. Dedicated study starts 2027-08-01;
+>   all new cards should be done before then (25/day → ~late June 2027).
+> The on-encounter and chapter-batch rules below are **historical**. Still never read AnKing content.
+
 > **Trigger change (2026-07-05):** unsuspending is now **on-encounter, not bulk.** Even topic-by-topic
 > chapter unsuspending surfaced too many cards to survive. **The new rule: unsuspend an AnKing card
 > only when its exact topic comes up in a *missed question* during FL dissection.** The miss is the
@@ -20,7 +34,7 @@ premade high-quality content instead of building her own.
 
 ## Context (why this project exists)
 
-- **Test date: 2026-09-03** (~75 days out as of 2026-06-20).
+- **Test date: 2027-09-03** (moved from 2026-09-03 on 2026-10-12; the 75-day framing below is from the original date).
 - The user spent a lot of time hand-building her own physics/chem/biochem decks but was **barely
   reviewing them** — net negative ROI, since SRS value comes from *reviews*, not card creation.
 - She owns the full **AnKing MCAT Deck** (premade, vetted, ~2,500 content cards) but it ships mostly

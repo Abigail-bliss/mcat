@@ -1,114 +1,99 @@
-# MCAT Study Plan — Target 520 · Test 2026-09-03
+# MCAT Study Plan — Target 520 · Test 2027-09-03
 
-Companion to `CLAUDE.md` (AnKing gating) and the memory file `mcat-study-plan.md`.
-Two phases: **Phase 1** = now → ~Aug 1 (working FT, WizePrep finishing). **Phase 2** = Aug 1 → Sept 3
-(5 weeks PTO, full-time).
+*Written 2026-10-12. Replaces the 75-day 2026 plan (archived in `../archive/2026-attempt/`).*
 
-Error-log insight (2026-06-20): 98 misses, 97 C/P, **Orgo = 32 (your #1 weakness)**, 69 knowledge
-gaps, **82 not yet addressed**. Confirms weakness-first = Orgo/Biochem/Bio.
-
----
-
-## A. Catch-up plan (next ~7 days)
-
-You're behind: BBF I lectures **1.2–1.4** (+1.5 assigned tomorrow), **2 FLs behind**, **~82 misses**.
-Bottleneck = content (lectures). Do NOT do a full-length this week.
-
-**Daily non-negotiable (every day, even bad ones):** clear all AnKing **due reviews** + take the day's
-**50 new** (Orgo/Biochem). ~30–60 min.
-
-**Lecture catch-up — spread across weeknights so the weekend isn't 7 lectures:**
-- Mon–Thu evenings: one backlog lecture each at **1.5×** (~2 hr) → clears 1.2, 1.3, 1.4 + buffer.
-- Do **1.5** when assigned; normal 4 lectures on the weekend.
-- Each lecture: do its **quiz immediately after** (active = ADHD focus).
-
-**Misses backlog — time-boxed, not a marathon:** ~**15/day, Orgo + knowledge-gap ones first.** Most
-are already covered by the AnKing Orgo cards now in your queue — let the reviews do the work; only make
-a custom card for a miss AnKing genuinely lacks (misses workflow). Goal: backlog cleared in ~1 week.
-
-**No FL this week.** Next FL = when WizePrep content is mostly done (~mid-July) **or** Phase 2 start
-(Aug 1) as the baseline — whichever comes first once you're caught up.
+> **This is current thinking, not a contract.** It records the shape Abigail and Claude agreed on
+> 2026-10-12 so nobody has to re-derive it. Only the *school-year* season is concrete. Everything
+> after it is a sketch that she will revise as she goes — expect it to change, and change it freely.
+> **No resource is ruled out** (WizePrep, UWorld, flash sheets, the error log, custom cards are all
+> still on the table). When this file and what she says today disagree, she wins; update the file.
 
 ---
 
-## B. Phase 1 weekly template (now → ~Aug 1, working FT)
+## Why the plan changed
 
-Weekends are dominated by WizePrep lectures (~12 hr of content). Weekdays = encoding + practice.
+The 2026 attempt asked for a first pass on Orgo, Biochem and Bio *plus* consolidation *plus*
+full-lengths, in 75 days, alongside a full-time job. There were not enough hours in the day: every
+part of the system ran at once, the content was overwhelming, and Anki — last in line — almost never
+happened (171 of 6,437 AnKing cards ever studied). She did not sit the 2026-09-03 exam.
 
-| Day | Core (non-negotiable) | Then, if time |
-|-----|----------------------|---------------|
-| Mon | AnKing due + 50 new | 1 backlog lecture (1.5×) OR 15–20 UWorld Q (covered topic) + log misses |
-| Tue | AnKing due + 50 new | UWorld block (Orgo/Biochem) + log misses |
-| Wed | AnKing due + 50 new | 1 lecture OR UWorld; **CARS: 1–2 timed passages** |
-| Thu | AnKing due + 50 new | UWorld block + log misses |
-| Fri | AnKing due + 50 new | Light — UWorld OR catch up; **CARS: 1–2 passages** |
-| Sat | AnKing due + 50 new | **2 WizePrep lectures + quizzes**; tell Claude which chapters → unsuspend new topics |
-| Sun | AnKing due + 50 new | **2 WizePrep lectures + quizzes**; UWorld on the week's new content |
+What's different now:
 
-- **UWorld = tutor/untimed, by covered topic, every miss → log.** This is your content review.
-- After each WizePrep chapter: Claude unsuspends that chapter's MileDown topics (weakness-first).
-- Keep C/P warm with UWorld even though AnKing C/P isn't introduced yet (that's Phase 2).
+- **The courses do the content pass.** By the time MCAT-specific study ramps up she will have taken
+  Orgo I & II and Biochem and finished Bio, on top of Gen Chem I & II and Physics (already done).
+- **Eleven months instead of eleven weeks.**
+- **The system gets a priority order.** She is system-oriented and the system stays — but one part
+  is switched on at a time, so a short day still completes the part that matters.
 
----
+## Coursework
 
-## C. Phase 2 weekly template (Aug 1 → Sept 3, PTO, full-time)
+| Subject | Status |
+|---|---|
+| Gen Chem I & II (lecture + lab) | Done |
+| Bio I & II lecture, Bio II lab | Done |
+| Bio I lab | In progress — fall 2026 |
+| Orgo I (lecture + lab) | In progress — fall 2026 |
+| Orgo II | Spring 2027 |
+| Biochem | Spring 2027 |
+| Physics | Taken in college. Retaking fall 2027 (after the MCAT) — not a gap for this plan |
 
-WizePrep done; all content covered. This is where 496→520 happens. ~8–10 hr/day.
-
-| Block | Activity |
-|-------|----------|
-| Morning | **UWorld/AAMC question block** (60–90 min), then **full review into log** (review > doing) |
-| Midday | **AnKing** due reviews + new (until ~Aug 20 cutoff); then **content gap-fill** on weak areas surfaced by questions |
-| Afternoon | Weak-area deep work (Bio/Biochem/Orgo) OR **CARS** (a few passages, keep sharp) |
-| 2×/week | **Full-length** (Altius early, AAMC last 3 wks) — full day, **next day = full review** |
-
-- **Hard stop on NEW AnKing cards ~Aug 20** (~2 wks out) → pure review + practice after.
-- Final ~10 days: AAMC-only (FLs, question packs), light review, **protect sleep**, taper volume.
+She works full-time throughout.
 
 ---
 
-## C2. Unsuspending Physics + Gen Chem (already-covered C/P)
+## The three seasons (the sketch)
 
-Physics + Gen Chem were covered in CPF I & II (May/June) — they're **not** gated by WizePrep progress,
-only by our weakness-first sequencing + the 50/day throttle. Kept warm via UWorld during Phase 1.
+| Season | When | Switched on | Switched off |
+|---|---|---|---|
+| **1. School year** | now → spring classes end | **AnKing only**, done first in the day | question banks, full-lengths, error log, flash sheets |
+| **2. Questions** | classes end → Jul 31, 2027 | AnKing + practice questions, each miss reviewed at the moment of the miss | (full-length timing is open — see below) |
+| **3. Dedicated** | Aug 1 → test day (Sept 3, 2027) | full-lengths with a review day each; AnKing reviews only | new cards |
 
-- **Trigger = capacity, not calendar:** the moment daily new-card intake would run out of B/B material
-  (likely **mid-to-late July**, before the course ends), backfill with C/P. Never leave introduction
-  capacity idle while cards sit suspended/unmatured. Claude monitors the remaining `is:new` B/B supply
-  and pings when it drops to ~3 days of runway.
-- **Order:** Physics (partial-weak) first → **Gen Chem last** (strongest, least reinforcement).
-- **Throttle bump:** at PTO start (~Aug 1) raise new/day **50 → ~100–120** (set via deck config) so the
-  remaining pool (~1,070 C/P + leftover Bio/BBF II) clears before the cutoff.
-- **Hard cutoff ~Aug 20:** no new cards after, so even last-introduced C/P gets ≥2 weeks of reps.
-- **Behavioral / P/S (2,462 cards):** biggest chunk, not in WizePrep yet, her familiar area —
-  **triage to a high-yield subset, introduce last.** Separate decision when reached.
+### Season 1 — School year (concrete)
 
-## C3. Amino-acid structure-ID cards — spread out (done 2026-06-21)
+**Doing well in Orgo and Biochem *is* the MCAT prep.** The only MCAT-specific task is Anki.
 
-The 40 "**This amino acid is ___**" cards (structure image shown, name it) were spread ~2/day across
-20 days via `setDueDate days="1-20"` so she isn't memorizing all the amino-acid structures at once.
-They surface under the **"due"** count (not "new") — expected. All other amino-acid cards (~117) flow
-normally as new at 50/day. (Found via note Text containing "this amino acid is" + `<img>`; selected the
-name-cloze card per note.)
+- **25 new AnKing cards/day** (set on the top-level deck), default ordering.
+- **Cards are released when she has had the course**, not before:
+  - Active now: Biology, Gen Chem, Physics & Math, Essential Equations, and the Orgo topics from
+    Orgo I chapters 1, 4, 5 (2,491 new cards — lasts until about 2027-01-20).
+  - Psych/Soc (2,462): release around mid-January, when the active pool runs low.
+  - Orgo (455 remaining): release topic by topic as Orgo I/II cover each chapter — she says when.
+  - Biochem (858): release as the spring course covers it.
+- **Rules for short days:**
+  - Bad day → reviews only, zero new cards. Never skip reviews.
+  - If Anki runs over ~40 min/day for a week → drop to 15 new until it settles.
+  - At 25/day all new cards finish around late June 2027, leaving July as slack.
+- Mechanics and the batch log live in `../../03-consolidate/Anki/anking-unsuspend/`.
 
-No general "spread every dense topic" rule — this was specific to the structure-recognition cards.
+### Season 2 — Questions (sketch)
 
-## D. Full-length schedule (you have 10 Altius + AAMC FLs — don't waste them)
+Practice questions by subject, with each miss understood and re-derived on the spot (logging and
+reviewing are one act). This is where the score is expected to move. Which question bank, how many
+per day, and whether the error log and flash sheets switch back on here are all undecided.
 
-- **Phase 1:** ~1 around mid-July if caught up (Altius), else none → first FL = Aug 1.
-- **Phase 2:** ~2/week, each with a full review day. **Altius first; save all 4 AAMC FLs + sample for
-  the final ~3 weeks** (most predictive). **End on AAMC.**
-- Every FL: review EVERY miss (right and lucky-right) into the log. The review is the point.
+### Season 3 — Dedicated (sketch)
+
+About five weeks of mostly-MCAT time. Full-lengths each followed by a review day; third-party tests
+first, AAMC last, end on AAMC. No new Anki cards; protect sleep in the final week.
 
 ---
 
-## E. Non-negotiables for 520
+## Open — deliberately undecided
 
-1. **AnKing every single day** — clear all due reviews, no exceptions. This is the spine.
-2. **UWorld daily** (even 15 Q) with every miss reviewed into the log. Practice = content review.
-3. **Finish WizePrep first pass on time** — don't fall further behind on lectures.
-4. **Weakness-first** — disproportionate time into **Bio / Biochem / Orgo**. (Log proves Orgo is #1.)
-5. **CARS maintenance** — a few passages/week so your 90th-%ile asset doesn't decay. Don't over-invest.
-6. **Phase 2: 2 FLs/week + full review days; AAMC saved for the last 3 weeks; end on AAMC.**
-7. **Stop new AnKing cards ~Aug 20; protect sleep the final week.**
-8. **No more card-MAKING** — premade AnKing review + questions only. Custom cards only for true gaps.
+- **WizePrep.** Possibly useful as a topic refresher (not as the driver of the sequence, as in 2026).
+  Not ruled out; decide when a refresher is actually needed.
+- **Question bank** for season 2 (UWorld was the 2026 choice) and the daily volume.
+- **When full-lengths start.** Aug 1 leaves only ~5 weeks; some may belong in season 2.
+- **CARS maintenance** during the school year (it was her strongest section — 128 on the diagnostic).
+- **Error log and flash sheets** — when, or whether, they switch back on.
+- **Psych/Soc approach** — the whole Behavioral deck vs. a subset.
+- **Custom cards** — still only for genuine gaps; her own course decks are separate from this.
+
+## What carries over from 2026 (still believed)
+
+- **Review > intake.** Retrieval and consolidation move scores; watching and producing do not.
+- **AnKing is the daily backbone.** Don't drift into bulk card-making.
+- **Full-lengths are diagnostics** — only worth taking with a review day attached.
+- **Scores so far:** AAMC FL1 496 (2026-05-16), Altius FLE1 496 (2026-06-28) — both taken before
+  the Orgo/Biochem coursework, so they are a floor, not a forecast.

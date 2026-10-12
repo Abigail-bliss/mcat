@@ -1,11 +1,13 @@
 # AnKing Unsuspend — Progress Log
 
-Test date: **2026-09-03**. One row per unsuspend batch. Counts are cards, not notes.
+Test date: **2027-09-03** (moved from 2026-09-03 on 2026-10-12). One row per unsuspend batch. Counts are cards, not notes.
 
 | Date | WizePrep chapter | Subdeck(s) | Queries used | Newly unsuspended | Notes |
 |------|------------------|------------|--------------|-------------------|-------|
 | 2026-06-20 | _(Step 0)_ bulk suspend | all content | `is:new -is:suspended` | −6342 suspended | 93 studied cards untouched; new/day already =50 (AnkiHub preset) |
 | 2026-06-20 | BBF I Ch1 + CPF II Orgo | Biochemistry, Organic-Chemistry | MileDown `Biochemistry::{Amino_Acids,Proteins,Lipids,Carbohydrates,Enzymes,DNA_and_RNA::Nucleic_Acids,DNA_and_RNA::Structure}` + `OChem::*` | 884 | weakness-first batch 1; 5458 still suspended awaiting WizePrep coverage |
+| 2026-10-12 | _(full deck)_ | all | `deck:"AnKing MCAT Deck" is:suspended` | 5502 | user request after test date moved to 2027-09-03; 0 suspended, 6266 new active; new/day set 30→25 (AnkiHub preset); superseded same day by the course-gated re-hold below |
+| 2026-10-12 | _(course-gated re-hold)_ | Behavioral, Biochemistry, Organic-Chemistry | `is:new` in those subdecks, minus `OChem::{Bonding,Isomers,Nomenclature}` | −3775 suspended | 2491 new stay active (Biology 1267, Physics 586, Gen Chem 459, Equations 97, Orgo 80, 2 other); held IDs in `held-suspended-2026-10-12.json`; release Behavioral ~mid-Jan 2027, Biochem + Orgo as courses cover them |
 
 ## Coverage checklist (mirrors WizePrep sequence)
 
